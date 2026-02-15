@@ -4,7 +4,7 @@
     <a href="https://github.com/stevinz/awesome-game-engine-dev"><img width="1100" src="aged-title.png" alt="Awesome Game Engine Dev Logo"/></a>
 </div>
 
-# Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 437,262 | 🐛 69 | 📅 2026-01-28 with stars
+# Awesome Game Engine Development [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 437,496 | 🐛 70 | 📅 2026-01-28 with stars
 
 Curated list of resources related to the development of game engines (tools that improve and speed up game creation). Specifically toward the development of high-level, fully featured game engines (e.g., Godot / Unity).
 
@@ -103,14 +103,14 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Popular
 
-* 🎉 [Godot](https://github.com/godotengine/godot#readme) ⭐ 106,637 | 🐛 17,578 | 🌐 C++ | 📅 2026-02-13 🔥 - Feature-packed, open source engine. Excellent! \[[Awesome](https://github.com/godotengine/awesome-godot#readme) ⭐ 9,368 | 🐛 37 | 📅 2026-02-09 | [Website](https://godotengine.org)]
+* 🎉 [Godot](https://github.com/godotengine/godot#readme) ⭐ 106,666 | 🐛 17,600 | 🌐 C++ | 📅 2026-02-13 🔥 - Feature-packed, open source engine. Excellent! \[[Awesome](https://github.com/godotengine/awesome-godot#readme) ⭐ 9,370 | 🐛 38 | 📅 2026-02-09 | [Website](https://godotengine.org)]
 * 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. \[[Awesome](https://github.com/RyanNielson/awesome-unity) ⚠️ Archived]
 * 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. \[[Awesome](https://github.com/insthync/awesome-ue4#readme) ⭐ 1,521 | 🐛 2 | 📅 2025-02-23]
 
 ### AAA
 
-* 🎉 [O3DE](https://github.com/o3de/o3de/) ⭐ 8,943 | 🐛 3,501 | 🌐 C++ | 📅 2026-02-14 - Multi-platform AAA engine. Cinema-quality 3D. Successor to *Lumberyard*.
-* 💸 [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) ⭐ 6,616 | 🐛 766 | 🌐 C# | 📅 2026-02-12 - Modern 3D game engine written in C++ and C#.
+* 🎉 [O3DE](https://github.com/o3de/o3de/) ⭐ 8,944 | 🐛 3,502 | 🌐 C++ | 📅 2026-02-14 - Multi-platform AAA engine. Cinema-quality 3D. Successor to *Lumberyard*.
+* 💸 [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) ⭐ 6,617 | 🐛 771 | 🌐 C# | 📅 2026-02-12 - Modern 3D game engine written in C++ and C#.
 * 🎉 [Amazon Lumberyard](https://github.com/aws/lumberyard) ⚠️ Archived - AAA engine integrated with AWS and Twitch. Forked from *CRYENGINE*.
 * 🆓 [Evergine](https://evergine.com) - High-quality 3D and 2D solutions. Formerly *Wave Engine*. \[[Samples](https://github.com/EvergineTeam/Samples) ⭐ 130 | 🐛 1 | 📅 2025-10-20]
 * 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
@@ -120,9 +120,9 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Commercial
 
-* 🎉 [Defold](https://github.com/defold/defold) ⭐ 5,756 | 🐛 1,177 | 🌐 C++ | 📅 2026-02-13 - Open sourced game engine by *King*. \[[Website](https://defold.com)]
+* 🎉 [Defold](https://github.com/defold/defold) ⭐ 5,759 | 🐛 1,181 | 🌐 C++ | 📅 2026-02-14 - Open sourced game engine by *King*. \[[Website](https://defold.com)]
 * 💰 [Phaser Editor 2D](https://phasereditor2d.com) - Commercial, web-based editor for *Phaser*. \[[GitHub](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) ⭐ 489 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25]
-* 💸 [PlayCanvas](https://playcanvas.com) - Popular (*Flappy Bird*) WebGL game engine. \[[Awesome](https://github.com/playcanvas/awesome-playcanvas#readme) ⭐ 386 | 🐛 1 | 📅 2026-02-09 | [GitHub](https://github.com/playcanvas/engine) ⭐ 14,451 | 🐛 607 | 🌐 JavaScript | 📅 2026-02-13]
+* 💸 [PlayCanvas](https://playcanvas.com) - Popular (*Flappy Bird*) WebGL game engine. \[[Awesome](https://github.com/playcanvas/awesome-playcanvas#readme) ⭐ 386 | 🐛 1 | 📅 2026-02-09 | [GitHub](https://github.com/playcanvas/engine) ⭐ 14,453 | 🐛 605 | 🌐 JavaScript | 📅 2026-02-14]
 * 💸 [NeoAxis](https://github.com/NeoAxis/NeoAxisEngine) ⭐ 242 | 🐛 6 | 🌐 C# | 📅 2026-01-30 - Versatile real-time platform for making games and apps. \[[Website](https://www.neoaxis.com)]
 * 💸 [Stencyl](https://github.com/Stencyl/stencyl-engine) ⭐ 206 | 🐛 6 | 🌐 Haxe | 📅 2026-02-09 - Quick and easy game making with visual scripting.
 * 💸 [Construct](https://www.construct.net/) - Drag and drop game builder. \[[Awesome](https://github.com/ConstructCommunity/awesome-construct#readme) ⭐ 90 | 🐛 0 | 📅 2025-06-17]
@@ -141,8 +141,8 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Specialty
 
-* 🎉 [GB Studio](https://github.com/chrismaltby/gb-studio) ⭐ 9,165 | 🐛 724 | 🌐 TypeScript | 📅 2026-02-14 - Retro adventure game creator for *Game Boy*.
-* 🎉 [Ren'Py](https://github.com/renpy/renpy) ⭐ 6,214 | 🐛 248 | 🌐 Ren'Py | 📅 2026-02-14 - Visual novel engine. \[[Website](https://www.renpy.org/)]
+* 🎉 [GB Studio](https://github.com/chrismaltby/gb-studio) ⭐ 9,165 | 🐛 726 | 🌐 TypeScript | 📅 2026-02-14 - Retro adventure game creator for *Game Boy*.
+* 🎉 [Ren'Py](https://github.com/renpy/renpy) ⭐ 6,217 | 🐛 248 | 🌐 Ren'Py | 📅 2026-02-15 - Visual novel engine. \[[Website](https://www.renpy.org/)]
 * 🔒 [Twine](https://github.com/klembot/twinejs) ⭐ 2,639 | 🐛 255 | 🌐 TypeScript | 📅 2026-02-07 - Tool for telling interactive, nonlinear stories.
 * 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) ⭐ 639 | 🐛 5 | 🌐 C++ | 📅 2023-09-08 - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
 * 💰 [3dSen](https://geod.itch.io/3dnes) - Emulator that lets you play *NES* games in 3D. \[[Website](http://www.geodstudio.net)]
@@ -162,17 +162,17 @@ This includes things typically not found in low-level game engines, app / game f
 ### Computer Graphics
 
 * Graphics API: DirectX
-  * 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - *Microsoft* API used to create 2D/3D games and apps. \[[Blog](https://devblogs.microsoft.com/directx/) | [Samples](https://github.com/microsoft/DirectX-Graphics-Samples) ⭐ 6,660 | 🐛 105 | 🌐 C++ | 📅 2026-02-11]
+  * 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - *Microsoft* API used to create 2D/3D games and apps. \[[Blog](https://devblogs.microsoft.com/directx/) | [Samples](https://github.com/microsoft/DirectX-Graphics-Samples) ⭐ 6,661 | 🐛 105 | 🌐 C++ | 📅 2026-02-11]
   * 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
 * Graphics API: WebGPU
-  * 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) ⭐ 5,331 | 🐛 452 | 🌐 Bikeshed | 📅 2026-02-12 - Next generation web 3D graphics API. \[[GitHub](https://github.com/gpuweb/gpuweb) ⭐ 5,331 | 🐛 452 | 🌐 Bikeshed | 📅 2026-02-12]
+  * 🌎 [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) ⭐ 5,332 | 🐛 453 | 🌐 Bikeshed | 📅 2026-02-12 - Next generation web 3D graphics API. \[[GitHub](https://github.com/gpuweb/gpuweb) ⭐ 5,332 | 🐛 453 | 🌐 Bikeshed | 📅 2026-02-12]
   * 🌎 [Dawn](https://dawn.googlesource.com/dawn) - Open source, cross-platform implementation of the WebGPU standard, by *Google*.
   * 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by *Apple*.
 * Graphics API: Vulkan
   * 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. \[[Samples](https://github.com/khronosGroup/Vulkan-samples) ⭐ 5,139 | 🐛 60 | 🌐 C++ | 📅 2026-02-07]
-  * 📚 [Vulkan Tutorial](https://github.com/Overv/VulkanTutorial) ⭐ 3,609 | 🐛 72 | 🌐 C++ | 📅 2026-01-25 - Teaches the basics of using Vulkan graphics and compute API.
+  * 📚 [Vulkan Tutorial](https://github.com/Overv/VulkanTutorial) ⭐ 3,609 | 🐛 73 | 🌐 C++ | 📅 2026-01-25 - Teaches the basics of using Vulkan graphics and compute API.
 * Graphics API: WebGL
-  * 🌎 [WebGL](https://www.khronos.org/webgl/) - Open web standard 3D graphics API. \[[GitHub](https://github.com/KhronosGroup/WebGL) ⭐ 2,803 | 🐛 235 | 🌐 HTML | 📅 2026-01-30]
+  * 🌎 [WebGL](https://www.khronos.org/webgl/) - Open web standard 3D graphics API. \[[GitHub](https://github.com/KhronosGroup/WebGL) ⭐ 2,804 | 🐛 235 | 🌐 HTML | 📅 2026-01-30]
   * 📚 [WebGL 2 Samples](https://github.com/WebGLSamples/WebGL2Samples) ⭐ 1,034 | 🐛 8 | 🌐 HTML | 📅 2021-11-10 - Short and easy to understand samples demonstrating WebGL 2 features.
   * 📚 [WebGL Fundamentals](https://webglfundamentals.org) 🔥 - Full understanding of what WebGL really is and how it works.
   * 📚 [WebGL 2 Fundamentals](https://webgl2fundamentals.org) - Updated to use the WebGL2 standard.
@@ -233,8 +233,8 @@ This includes things typically not found in low-level game engines, app / game f
 ### Game Development
 
 * Awesome Collections
-  * 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,170 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15 - List of game development resources to make magic happen.
-  * 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 4,549 | 🐛 4 | 📅 2025-05-05 - Wonderful list of game development resources.
+  * 📚 [Magictools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,173 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15 - List of game development resources to make magic happen.
+  * 📚 [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 4,551 | 🐛 4 | 📅 2025-05-05 - Wonderful list of game development resources.
   * 📚 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev#readme) ⭐ 2,895 | 🐛 7 | 📅 2026-02-05 - Collection of free resources for making games.
   * 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 * Books
@@ -254,7 +254,7 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Programming
 
-* 📚 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 97,778 | 🐛 20 | 📅 2025-12-29 - Technical things every developer should know.
+* 📚 [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 97,791 | 🐛 20 | 📅 2025-12-29 - Technical things every developer should know.
 * 📚 [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) ⭐ 4,682 | 🐛 23 | 📅 2025-05-10 - Educational resources to learn to program.
 * 📚 [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) ⭐ 2,062 | 🐛 5 | 📅 2025-06-03 - Games that teach you a programming language.
 * 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
@@ -282,195 +282,195 @@ This includes things typically not found in low-level game engines, app / game f
 ### C
 
 * C: File Formats
-  * ⭐ [stb\_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c) ⭐ 32,496 | 🐛 371 | 🌐 C | 📅 2025-10-25 - Ogg Vorbis audio decoder.
-  * 🎉 [Assimp](https://github.com/assimp/assimp) ⭐ 12,723 | 🐛 393 | 🌐 C++ | 📅 2026-02-10 - Open Asset Importer Library. Loads 40+ 3D file formats.
-  * 🎉 [QOI](https://github.com/phoboslab/qoi) ⭐ 7,411 | 🐛 30 | 🌐 C | 📅 2026-02-04 - The “Quite OK Image Format” for fast, lossless image compression.
+  * ⭐ [stb\_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c) ⭐ 32,507 | 🐛 372 | 🌐 C | 📅 2025-10-25 - Ogg Vorbis audio decoder.
+  * 🎉 [Assimp](https://github.com/assimp/assimp) ⭐ 12,725 | 🐛 394 | 🌐 C++ | 📅 2026-02-10 - Open Asset Importer Library. Loads 40+ 3D file formats.
+  * 🎉 [QOI](https://github.com/phoboslab/qoi) ⭐ 7,411 | 🐛 30 | 🌐 C | 📅 2026-02-14 - The “Quite OK Image Format” for fast, lossless image compression.
   * 🎉 [Miniz](https://github.com/richgel999/miniz) ⭐ 2,643 | 🐛 139 | 🌐 C++ | 📅 2026-02-13 - Single-file drop-in replacement for zlib's most used APIs (*libpng* and *libzip*).
   * 🎉 [cgltf](https://github.com/jkuhlmann/cgltf) ⭐ 1,822 | 🐛 41 | 🌐 C | 📅 2026-02-02 - Single-file glTF 2.0 loader and writer in C99.
-  * ⭐ [dr\_libs](https://github.com/mackron/dr_libs) ⭐ 1,651 | 🐛 4 | 🌐 C | 📅 2026-01-16 - Single-file audio decoding libraries.
-  * 🎉 [PL\_MPEG](https://github.com/phoboslab/pl_mpeg) ⭐ 913 | 🐛 20 | 🌐 C | 📅 2025-12-30 - Single-file library for decoding MPEG1 Video and MP2 Audio.
+  * ⭐ [dr\_libs](https://github.com/mackron/dr_libs) ⭐ 1,652 | 🐛 4 | 🌐 C | 📅 2026-01-16 - Single-file audio decoding libraries.
+  * 🎉 [PL\_MPEG](https://github.com/phoboslab/pl_mpeg) ⭐ 914 | 🐛 21 | 🌐 C | 📅 2025-12-30 - Single-file library for decoding MPEG1 Video and MP2 Audio.
   * 🎉 [Libspng](https://github.com/randy408/libspng) ⭐ 822 | 🐛 81 | 🌐 C | 📅 2024-06-15 - Simple, modern libpng alternative.
   * 🎉 [OBJ GL Loader v2](https://github.com/karolek471/objgl) ⭐ 12 | 🐛 0 | 🌐 C | 📅 2021-04-24 - Quite fast wavefront OBJ loader for OpenGL.
 * C: Libraries
-  * ⭐ [stb](https://github.com/nothings/stb) ⭐ 32,496 | 🐛 371 | 🌐 C | 📅 2025-10-25 🔥 - Single-file public domain libraries for C/C++, by [Sean Barrett](https://github.com/nothings).
-  * 📚 [Single-file Libs](https://github.com/nothings/single_file_libs) ⭐ 9,793 | 🐛 4 | 📅 2026-02-08 - Amazing collection of single-file C/C++ libraries compiled from many authors.
-  * ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) ⭐ 4,954 | 🐛 20 | 🌐 C | 📅 2026-02-03 - Single-file libraries primarily used for games, by [Randy Gaul](https://github.com/RandyGaul).
-  * ⭐ [Libs](https://github.com/mattiasgustavsson/libs) ⭐ 2,180 | 🐛 14 | 🌐 C | 📅 2026-01-20 - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
+  * ⭐ [stb](https://github.com/nothings/stb) ⭐ 32,507 | 🐛 372 | 🌐 C | 📅 2025-10-25 🔥 - Single-file public domain libraries for C/C++, by [Sean Barrett](https://github.com/nothings).
+  * 📚 [Single-file Libs](https://github.com/nothings/single_file_libs) ⭐ 9,795 | 🐛 4 | 📅 2026-02-08 - Amazing collection of single-file C/C++ libraries compiled from many authors.
+  * ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) ⭐ 4,955 | 🐛 20 | 🌐 C | 📅 2026-02-03 - Single-file libraries primarily used for games, by [Randy Gaul](https://github.com/RandyGaul).
+  * ⭐ [Libs](https://github.com/mattiasgustavsson/libs) ⭐ 2,181 | 🐛 14 | 🌐 C | 📅 2026-01-20 - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
   * ⭐ [Pico Headers](https://github.com/empyreanx/pico_headers) ⭐ 488 | 🐛 2 | 🌐 C | 📅 2026-02-13 - Single-file, cross-platform libraries for game development.
 * C: Fonts
-  * ⭐ [stb\_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) ⭐ 32,496 | 🐛 371 | 🌐 C | 📅 2025-10-25 - Single-header file library that processes TrueType font files.
+  * ⭐ [stb\_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) ⭐ 32,507 | 🐛 372 | 🌐 C | 📅 2025-10-25 - Single-header file library that processes TrueType font files.
   * 🎉 [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) ⭐ 1,420 | 🐛 3 | 🌐 C | 📅 2026-02-13 - C/C++ headers and C# classes for icon fonts.
   * 🎉 [Font Stash](https://github.com/memononen/fontstash) ⭐ 750 | 🐛 16 | 🌐 C | 📅 2023-07-13 - Lightweight library that uses stb\_truetype to render fonts to a texture atlas.
   * 🎉 [Vertext](https://github.com/kevinmkchin/vertext) ⭐ 30 | 🐛 1 | 🌐 C | 📅 2024-05-11 - Generates vertices for rendering text, requires stb\_truetype.
 * C: Math
-  * 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) ⭐ 30,941 | 🐛 11 | 🌐 C | 📅 2026-02-12 - Math library included in the *RayLib* game framework.
-  * 🎉 [Cglm](https://github.com/recp/cglm) ⭐ 2,833 | 🐛 76 | 🌐 C | 📅 2026-02-10 - Highly optimized OpenGL math.
+  * 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) ⭐ 30,955 | 🐛 9 | 🌐 C | 📅 2026-02-14 - Math library included in the *RayLib* game framework.
+  * 🎉 [Cglm](https://github.com/recp/cglm) ⭐ 2,835 | 🐛 76 | 🌐 C | 📅 2026-02-10 - Highly optimized OpenGL math.
   * ⭐ [Handmade Math](https://github.com/HandmadeMath/Handmade-Math) ⭐ 1,482 | 🐛 6 | 🌐 C | 📅 2025-02-24 🔥 - Simple, public domain math library for games and computer graphics.
   * 🎉 [Kazmath](https://github.com/Kazade/kazmath) ⭐ 536 | 🐛 12 | 🌐 C | 📅 2020-12-17 - Math library targeted at games.
 * C: Game Framework
-  * 🎉 [RayLib](https://github.com/raysan5/raylib) ⭐ 30,941 | 🐛 11 | 🌐 C | 📅 2026-02-12 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
-  * 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) ⭐ 1,402 | 🐛 28 | 🌐 C | 📅 2025-12-13 - Header-only C99 framework for multimedia apps.
+  * 🎉 [RayLib](https://github.com/raysan5/raylib) ⭐ 30,955 | 🐛 9 | 🌐 C | 📅 2026-02-14 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
+  * 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) ⭐ 1,402 | 🐛 28 | 🌐 C | 📅 2026-02-14 - Header-only C99 framework for multimedia apps.
   * ⭐ [FWK](https://github.com/r-lyeh/FWK) ⭐ 520 | 🐛 0 | 🌐 C | 📅 2025-08-04 - 3D game framework.
   * 🎉 [DOME](https://github.com/domeengine/dome) ⭐ 482 | 🐛 9 | 🌐 C | 📅 2025-03-31 - Melds SDL2 and the Wren scripting language. \[[Website](https://domeengine.com/)]
-  * 🎉 [CGL](https://github.com/Jaysmito101/cgl) ⭐ 452 | 🐛 8 | 🌐 C | 📅 2025-07-06 - Single-header file, lots of graphics & utility functions.
+  * 🎉 [CGL](https://github.com/Jaysmito101/cgl) ⭐ 451 | 🐛 8 | 🌐 C | 📅 2025-07-06 - Single-header file, lots of graphics & utility functions.
   * 🎉 [Entrypoint](https://github.com/jimon/entrypoint) ⭐ 72 | 🐛 0 | 🌐 C | 📅 2018-07-07 - Lightweight entry point for games.
 * C: Gui
-  * 🎉 [lvgl](https://github.com/lvgl/lvgl) ⭐ 22,757 | 🐛 123 | 🌐 C | 📅 2026-02-13 🔥 - Embedded gui library, many widgets and advanced visual effects.
-  * 🎉 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 10,860 | 🐛 323 | 🌐 C | 📅 2026-02-13 - Single-header immediate mode cross-platform gui library.
+  * 🎉 [lvgl](https://github.com/lvgl/lvgl) ⭐ 22,765 | 🐛 121 | 🌐 C | 📅 2026-02-14 🔥 - Embedded gui library, many widgets and advanced visual effects.
+  * 🎉 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 10,862 | 🐛 323 | 🌐 C | 📅 2026-02-13 - Single-header immediate mode cross-platform gui library.
   * 🎉 [Native File Dialog](https://github.com/mlabbe/nativefiledialog) ⭐ 1,930 | 🐛 23 | 🌐 Makefile | 📅 2024-08-10 - Portably invoke native file open / save dialogs.
-  * 🎉 [cImgui](https://github.com/cimgui/cimgui) ⭐ 1,813 | 🐛 13 | 🌐 Lua | 📅 2026-02-11 - Thin C wrapper generated for Dear ImGui.
-  * 🎉 [NAppGUI](https://github.com/frang75/nappgui_src) ⭐ 671 | 🐛 54 | 🌐 C | 📅 2026-02-11 - Professional, well documented SDK to build desktop apps.
+  * 🎉 [cImgui](https://github.com/cimgui/cimgui) ⭐ 1,814 | 🐛 13 | 🌐 Lua | 📅 2026-02-11 - Thin C wrapper generated for Dear ImGui.
+  * 🎉 [NAppGUI](https://github.com/frang75/nappgui_src) ⭐ 672 | 🐛 54 | 🌐 C | 📅 2026-02-11 - Professional, well documented SDK to build desktop apps.
 * C: Cross-Platform
-  * 🎉 [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 20,538 | 🐛 197 | 🌐 C | 📅 2026-01-25 - Build-once run-anywhere C library.
+  * 🎉 [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 20,541 | 🐛 197 | 🌐 C | 📅 2026-01-25 - Build-once run-anywhere C library.
 * C: Layout
-  * 🎉 [Clay](https://github.com/nicbarker/clay) ⭐ 16,557 | 🐛 233 | 🌐 C | 📅 2025-12-30 - High performance 2D UI layout library.
+  * 🎉 [Clay](https://github.com/nicbarker/clay) ⭐ 16,562 | 🐛 232 | 🌐 C | 📅 2025-12-30 - High performance 2D UI layout library.
 * C: App Framework
-  * 🎉 [SDL](https://github.com/libsdl-org/SDL) ⭐ 14,877 | 🐛 819 | 🌐 C | 📅 2026-02-13 🔥 - Low-level access to audio, keyboard, mouse, joystick, and graphics hardware.
-  * 🎉 [glfw](https://github.com/glfw/glfw) ⭐ 14,688 | 🐛 736 | 🌐 C | 📅 2026-02-13 - Cross-platform API for windowing, graphics contexts, input and events.
-  * 🎉 [Sokol](https://github.com/floooh/sokol) ⭐ 9,594 | 🐛 148 | 🌐 C | 📅 2026-02-12 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
+  * 🎉 [SDL](https://github.com/libsdl-org/SDL) ⭐ 14,888 | 🐛 818 | 🌐 C | 📅 2026-02-14 🔥 - Low-level access to audio, keyboard, mouse, joystick, and graphics hardware.
+  * 🎉 [glfw](https://github.com/glfw/glfw) ⭐ 14,690 | 🐛 736 | 🌐 C | 📅 2026-02-13 - Cross-platform API for windowing, graphics contexts, input and events.
+  * 🎉 [Sokol](https://github.com/floooh/sokol) ⭐ 9,601 | 🐛 149 | 🌐 C | 📅 2026-02-14 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
   * 🎉 [Allegro](https://github.com/liballeg/allegro5) ⭐ 2,069 | 🐛 383 | 🌐 C | 📅 2026-02-13 - Cross-platform library aimed at video game and multimedia apps.
-  * 🎉 [MiniFB](https://github.com/emoon/minifb) ⭐ 1,193 | 🐛 11 | 🌐 C | 📅 2026-01-26 - Creates a cross-platform frame buffer for drawing pixels.
+  * 🎉 [MiniFB](https://github.com/emoon/minifb) ⭐ 1,195 | 🐛 11 | 🌐 C | 📅 2026-01-26 - Creates a cross-platform frame buffer for drawing pixels.
 * C: Scripting
-  * 🎉 [QuickJS](https://github.com/bellard/quickjs) ⭐ 10,393 | 🐛 61 | 🌐 C | 📅 2025-12-22 - Small and embeddable JavaScript engine.
-  * 🎉 [Lua](https://github.com/lua/lua) ⭐ 9,751 | 🐛 0 | 🌐 C | 📅 2026-02-02 - Powerful, efficient, lightweight, embeddable scripting language.
-  * 🎉 [JerryScript](https://github.com/jerryscript-project/jerryscript) ⭐ 7,364 | 🐛 226 | 🌐 C | 📅 2025-10-08 - Ultra-lightweight JavaScript engine for the Internet of Things.
-  * 🎉 [Duktape](https://github.com/svaarala/duktape) ⭐ 6,180 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22 - Embeddable JavaScript engine with a focus on portability and compact footprint.
+  * 🎉 [QuickJS](https://github.com/bellard/quickjs) ⭐ 10,392 | 🐛 61 | 🌐 C | 📅 2025-12-22 - Small and embeddable JavaScript engine.
+  * 🎉 [Lua](https://github.com/lua/lua) ⭐ 9,752 | 🐛 0 | 🌐 C | 📅 2026-02-02 - Powerful, efficient, lightweight, embeddable scripting language.
+  * 🎉 [JerryScript](https://github.com/jerryscript-project/jerryscript) ⭐ 7,365 | 🐛 226 | 🌐 C | 📅 2025-10-08 - Ultra-lightweight JavaScript engine for the Internet of Things.
+  * 🎉 [Duktape](https://github.com/svaarala/duktape) ⭐ 6,182 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22 - Embeddable JavaScript engine with a focus on portability and compact footprint.
 * C: Graphics - 3D
-  * 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) ⭐ 9,594 | 🐛 148 | 🌐 C | 📅 2026-02-12 - Cross-platform, single-file graphics. \[[Examples](https://floooh.github.io/sokol-html5/)]
-  * 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) ⭐ 574 | 🐛 6 | 🌐 C | 📅 2025-10-29 - 2D graphics painter implemented with *Sokol*.
+  * 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) ⭐ 9,601 | 🐛 149 | 🌐 C | 📅 2026-02-14 - Cross-platform, single-file graphics. \[[Examples](https://floooh.github.io/sokol-html5/)]
+  * 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) ⭐ 575 | 🐛 6 | 🌐 C | 📅 2025-10-29 - 2D graphics painter implemented with *Sokol*.
 * C: Input
-  * 🎉 [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) ⭐ 9,594 | 🐛 148 | 🌐 C | 📅 2026-02-12 - Branch with addon support for gamepads in *Sokol*.
+  * 🎉 [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) ⭐ 9,601 | 🐛 149 | 🌐 C | 📅 2026-02-14 - Branch with addon support for gamepads in *Sokol*.
   * 🎉 [libGamepad](https://github.com/mtwilliams/libgamepad) ⭐ 24 | 🐛 13 | 🌐 C | 📅 2021-06-12 - Cross-platform library for gamepad input.
 * C: Entity Component System
-  * 🎉 [Flecs](https://github.com/SanderMertens/flecs) ⭐ 8,014 | 🐛 35 | 🌐 C | 📅 2026-02-12 - Fast and lightweight entity component system in C99.
+  * 🎉 [Flecs](https://github.com/SanderMertens/flecs) ⭐ 8,021 | 🐛 36 | 🌐 C | 📅 2026-02-12 - Fast and lightweight entity component system in C99.
 * C: Audio
-  * ⭐ [Miniaudio](https://github.com/mackron/miniaudio) ⭐ 6,327 | 🐛 6 | 🌐 C | 📅 2026-02-08 - Single-file audio playback and capture library.
-  * 🎉 [SoLoud](https://github.com/jarikomppa/soloud) ⭐ 2,066 | 🐛 119 | 🌐 C | 📅 2024-08-13 🔥 - Free, easy, portable audio engine for games.
-  * 🎉 [SDL\_mixer](https://github.com/libsdl-org/SDL_mixer) ⭐ 663 | 🐛 13 | 🌐 C | 📅 2026-02-06 - Audio mixer that supports various file formats for SDL.
+  * ⭐ [Miniaudio](https://github.com/mackron/miniaudio) ⭐ 6,330 | 🐛 4 | 🌐 C | 📅 2026-02-14 - Single-file audio playback and capture library.
+  * 🎉 [SoLoud](https://github.com/jarikomppa/soloud) ⭐ 2,067 | 🐛 119 | 🌐 C | 📅 2024-08-13 🔥 - Free, easy, portable audio engine for games.
+  * 🎉 [SDL\_mixer](https://github.com/libsdl-org/SDL_mixer) ⭐ 664 | 🐛 14 | 🌐 C | 📅 2026-02-06 - Audio mixer that supports various file formats for SDL.
 * C: Game Engine w/Editor
-  * 🎉 [TIC-80](https://github.com/nesbox/TIC-80) ⭐ 5,806 | 🐛 387 | 🌐 C | 📅 2026-02-07 - Virtual computer for making & sharing tiny games. \[[Website](https://tic80.com/)]
+  * 🎉 [TIC-80](https://github.com/nesbox/TIC-80) ⭐ 5,808 | 🐛 387 | 🌐 C | 📅 2026-02-07 - Virtual computer for making & sharing tiny games. \[[Website](https://tic80.com/)]
   * ⭐ [AVA](https://github.com/r-lyeh/AVA) ⚠️ Archived - Tiny, minimalistic 3D game engine.
 * C: Graphics - 2D
   * 🎉 [NanoVG](https://github.com/memononen/nanovg) ⭐ 5,579 | 🐛 319 | 🌐 C | 📅 2024-03-19 - OpenGL-based 2D vector drawing library for UI and visualizations.
   * 🎉 [Tilengine](https://github.com/megamarc/Tilengine) ⭐ 996 | 🐛 23 | 🌐 C | 📅 2024-09-29 - 2D graphics with raster effects for retro style game development.
 * C: Network
-  * 🎉 [netcode](https://github.com/mas-bandwidth/netcode) ⭐ 2,552 | 🐛 0 | 🌐 C | 📅 2026-01-28 - Secure client/server protocol for multiplayer games built on top of UDP.
+  * 🎉 [netcode](https://github.com/mas-bandwidth/netcode) ⭐ 2,553 | 🐛 0 | 🌐 C | 📅 2026-01-28 - Secure client/server protocol for multiplayer games built on top of UDP.
   * 🎉 [librg](https://github.com/zpl-c/librg) ⭐ 1,452 | 🐛 0 | 🌐 C | 📅 2026-01-31 - Middleware between networking / file-streaming libraries and app logic.
-  * 🎉 [ENet](https://github.com/zpl-c/enet) ⭐ 974 | 🐛 22 | 🌐 C | 📅 2026-01-08 - Simple, lightweight and reliable UDP networking library.
+  * 🎉 [ENet](https://github.com/zpl-c/enet) ⭐ 976 | 🐛 22 | 🌐 C | 📅 2026-01-08 - Simple, lightweight and reliable UDP networking library.
 * C: Physics
   * 🎉 [Chipmunk](https://github.com/slembcke/Chipmunk2D) ⭐ 2,370 | 🐛 68 | 🌐 C | 📅 2026-01-08 - Fast, lightweight 2D game physics library. \[[Docs](https://chipmunk-physics.net/documentation.php)]
 * C: Lighting
-  * ⭐ [Light Mapper](https://github.com/ands/lightmapper) ⭐ 1,515 | 🐛 6 | 🌐 C | 📅 2023-03-24 - Single-file library for lightmap baking by using your existing OpenGL renderer.
+  * ⭐ [Light Mapper](https://github.com/ands/lightmapper) ⭐ 1,516 | 🐛 6 | 🌐 C | 📅 2023-03-24 - Single-file library for lightmap baking by using your existing OpenGL renderer.
 * C: File System
-  * ⭐ [Incbin](https://github.com/graphitemaster/incbin) ⭐ 1,148 | 🐛 10 | 🌐 C | 📅 2025-05-26 - Include binary and text files in your C/C++ apps with ease.
+  * ⭐ [Incbin](https://github.com/graphitemaster/incbin) ⭐ 1,149 | 🐛 10 | 🌐 C | 📅 2025-05-26 - Include binary and text files in your C/C++ apps with ease.
   * 🎉 [PhysicsFS](https://github.com/icculus/physfs) ⭐ 730 | 🐛 33 | 🌐 C | 📅 2026-02-12 - Portable, flexible file I/O abstraction. Provides access to various archives.
-  * ⭐ [Where Am I](https://github.com/gpakosz/whereami) ⭐ 510 | 🐛 5 | 🌐 C | 📅 2024-08-26 - Locates the current path on the local file system.
+  * ⭐ [Where Am I](https://github.com/gpakosz/whereami) ⭐ 511 | 🐛 5 | 🌐 C | 📅 2024-08-26 - Locates the current path on the local file system.
   * 🎉 [HexEmbed](https://github.com/codeplea/hexembed) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2018-07-20 - Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
 * C: Geometry
-  * 🎉 [Marching Squares](https://github.com/prideout/par/blob/master/par_msquares.h) ⭐ 957 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Convert images into triangles. \[[Info](https://prideout.net/marching-squares)]
-  * 🎉 [Octasphere](https://github.com/prideout/par/blob/master/par_octasphere.h) ⭐ 957 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Generates triangle meshes for spheres, boxes, and capsules. \[[Info](https://prideout.net/blog/octasphere/)]
-  * 🎉 [Par\_Shapes](https://github.com/prideout/par/blob/master/par_shapes.h) ⭐ 957 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Triangle meshes including solids, spheres and more. \[[Info](https://prideout.net/shapes)]
-  * 🎉 [Par\_Streamlines](https://github.com/prideout/par/blob/master/par_streamlines.h) ⭐ 957 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Triangulating thick lines, béziers, streamlines. \[[Demo](https://github.com/prideout/streamlines_demo) ⭐ 32 | 🐛 0 | 🌐 C | 📅 2020-05-06 | [Info](https://prideout.net/blog/par_streamlines/)]
+  * 🎉 [Marching Squares](https://github.com/prideout/par/blob/master/par_msquares.h) ⭐ 958 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Convert images into triangles. \[[Info](https://prideout.net/marching-squares)]
+  * 🎉 [Octasphere](https://github.com/prideout/par/blob/master/par_octasphere.h) ⭐ 958 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Generates triangle meshes for spheres, boxes, and capsules. \[[Info](https://prideout.net/blog/octasphere/)]
+  * 🎉 [Par\_Shapes](https://github.com/prideout/par/blob/master/par_shapes.h) ⭐ 958 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Triangle meshes including solids, spheres and more. \[[Info](https://prideout.net/shapes)]
+  * 🎉 [Par\_Streamlines](https://github.com/prideout/par/blob/master/par_streamlines.h) ⭐ 958 | 🐛 14 | 🌐 C | 📅 2025-09-27 - Triangulating thick lines, béziers, streamlines. \[[Demo](https://github.com/prideout/streamlines_demo) ⭐ 32 | 🐛 0 | 🌐 C | 📅 2020-05-06 | [Info](https://prideout.net/blog/par_streamlines/)]
   * 🎉 [Blob](https://github.com/BlockoS/blob) ⚠️ Archived - Single-header implementation of a contour tracing algorithm.
 * 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 
 ### C++
 
 * C++: Gui
-  * 🎉 [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 71,323 | 🐛 1,205 | 🌐 C++ | 📅 2026-02-13 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
-  * 🎉 [GuiLite](https://github.com/idea4good/GuiLite) ⭐ 7,665 | 🐛 17 | 🌐 C++ | 📅 2025-10-22 - Header-only, cross-platform gui library.
-  * 🔒 [wxWidgets](https://github.com/wxWidgets/wxWidgets) ⭐ 7,036 | 🐛 2,288 | 🌐 C++ | 📅 2026-02-11 - Cross-platform gui using native controls. \[[Website](https://wxwidgets.org)]
-  * ⭐ [RmlUi](https://github.com/mikke89/RmlUi) ⭐ 3,814 | 🐛 46 | 🌐 C++ | 📅 2026-02-11 - Turns HTML / CSS source files into vertices and draw commands. \[[Docs](https://mikke89.github.io/RmlUiDoc/)]
+  * 🎉 [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 71,344 | 🐛 1,211 | 🌐 C++ | 📅 2026-02-13 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
+  * 🎉 [GuiLite](https://github.com/idea4good/GuiLite) ⭐ 7,666 | 🐛 17 | 🌐 C++ | 📅 2025-10-22 - Header-only, cross-platform gui library.
+  * 🔒 [wxWidgets](https://github.com/wxWidgets/wxWidgets) ⭐ 7,036 | 🐛 2,283 | 🌐 C++ | 📅 2026-02-14 - Cross-platform gui using native controls. \[[Website](https://wxwidgets.org)]
+  * ⭐ [RmlUi](https://github.com/mikke89/RmlUi) ⭐ 3,817 | 🐛 44 | 🌐 C++ | 📅 2026-02-14 - Turns HTML / CSS source files into vertices and draw commands. \[[Docs](https://mikke89.github.io/RmlUiDoc/)]
   * 🎉 [Nana](https://github.com/cnjinhao/nana) ⭐ 2,466 | 🐛 114 | 🌐 C++ | 📅 2024-06-19 - Cross-platform gui library in modern C++.
-  * 🎉 [Litehtml](https://github.com/litehtml/litehtml) ⭐ 2,255 | 🐛 57 | 🌐 C++ | 📅 2026-01-25 - Lightweight HTML / CSS rendering engine.
-  * 🔒 [FLTK](https://github.com/fltk/fltk) ⭐ 2,101 | 🐛 53 | 🌐 C++ | 📅 2026-02-08 - Fast Light Toolkit, cross-platform gui. \[[Website](https://www.fltk.org/)]
+  * 🎉 [Litehtml](https://github.com/litehtml/litehtml) ⭐ 2,257 | 🐛 57 | 🌐 C++ | 📅 2026-01-25 - Lightweight HTML / CSS rendering engine.
+  * 🔒 [FLTK](https://github.com/fltk/fltk) ⭐ 2,103 | 🐛 53 | 🌐 C++ | 📅 2026-02-08 - Fast Light Toolkit, cross-platform gui. \[[Website](https://www.fltk.org/)]
   * 🔒 [Wt](https://github.com/emweb/wt) ⭐ 1,826 | 🐛 16 | 🌐 C | 📅 2026-02-11 - Web gui library in modern C++. \[[Website](https://www.webtoolkit.eu/wt)]
-  * ⭐ [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) ⭐ 1,198 | 🐛 36 | 🌐 C++ | 📅 2025-03-21 - Single-header C++11 native dialogs on Windows, macOS, and Linux.
+  * ⭐ [Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs) ⭐ 1,199 | 🐛 36 | 🌐 C++ | 📅 2025-03-21 - Single-header C++11 native dialogs on Windows, macOS, and Linux.
   * ⭐ [Turbo Badger](https://github.com/fruxo/turbobadger) ⭐ 586 | 🐛 52 | 🌐 C++ | 📅 2019-11-14 - Gui library for hardware accelerated apps & games. \[[Oryol Example](https://floooh.github.io/oryol-samples/wasm/TurboBadgerDemo.html)]
   * 🎉 [Crazy Eddie's GUI](https://github.com/cegui/cegui) ⭐ 548 | 🐛 137 | 🌐 C++ | 📅 2024-10-06 - Versatile, multi-platform gui library.
   * 🔒 [Qt](https://github.com/qt) - Industry standard gui library. \[[Awesome](https://github.com/mikeroyal/Qt-Guide) ⭐ 134 | 🐛 0 | 🌐 C++ | 📅 2024-01-04 | [Website](https://www.qt.io)]
   * 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
   * 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
 * C++: Serialization
-  * 🎉 [Protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 70,679 | 🐛 235 | 🌐 C++ | 📅 2026-02-14 - Protocol Buffers, for platform-neutral serialized data by *Google*.
-  * 🎉 [JSON for Modern C++](https://github.com/nlohmann/json) ⭐ 48,882 | 🐛 100 | 🌐 C++ | 📅 2026-02-13 - JSON support for Modern C++.
-  * 🎉 [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 25,543 | 🐛 142 | 🌐 C++ | 📅 2026-02-12 - Efficient cross-platform serialization library by *Google*.
+  * 🎉 [Protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 70,685 | 🐛 238 | 🌐 C++ | 📅 2026-02-15 - Protocol Buffers, for platform-neutral serialized data by *Google*.
+  * 🎉 [JSON for Modern C++](https://github.com/nlohmann/json) ⭐ 48,889 | 🐛 100 | 🌐 C++ | 📅 2026-02-13 - JSON support for Modern C++.
+  * 🎉 [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 25,545 | 🐛 142 | 🌐 C++ | 📅 2026-02-12 - Efficient cross-platform serialization library by *Google*.
   * 🎉 [RapidJSON](https://github.com/Tencent/rapidjson/) ⭐ 14,988 | 🐛 766 | 🌐 C++ | 📅 2025-02-05 - Fast JSON parser / generator.
-  * 🎉 [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 12,850 | 🐛 294 | 🌐 C++ | 📅 2026-02-13 - Fast data interchange format and capability-based RPC system.
+  * 🎉 [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 12,852 | 🐛 294 | 🌐 C++ | 📅 2026-02-13 - Fast data interchange format and capability-based RPC system.
   * 🎉 [Cereal](https://github.com/USCiLab/cereal) ⭐ 4,617 | 🐛 340 | 🌐 C++ | 📅 2025-01-20 - Header-only C++11 serialization library.
   * 🎉 [Cista++](https://github.com/felixguendling/cista) ⭐ 2,175 | 🐛 8 | 🌐 C++ | 📅 2025-12-13 - Simple, high-performance serialization & reflection library.
-* 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 69,720 | 🐛 419 | 📅 2026-02-12 - List of awesome C++ frameworks, libraries, and resources.
+* 📚 [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 69,746 | 🐛 419 | 📅 2026-02-12 - List of awesome C++ frameworks, libraries, and resources.
 * C++: Utility
-  * 🎉 [Spdlog](https://github.com/gabime/spdlog) ⭐ 28,333 | 🐛 45 | 🌐 C++ | 📅 2026-02-09 - Fast logging library.
+  * 🎉 [Spdlog](https://github.com/gabime/spdlog) ⭐ 28,334 | 🐛 45 | 🌐 C++ | 📅 2026-02-09 - Fast logging library.
   * 🎉 [EASTL](https://github.com/electronicarts/EASTL/) ⭐ 9,146 | 🐛 110 | 🌐 C++ | 📅 2025-11-15 - Electronic Arts STL replacement, emphasis on performance.
-  * 🎉 [TinyXML-2](https://github.com/leethomason/tinyxml2) ⭐ 5,712 | 🐛 134 | 🌐 C++ | 📅 2025-11-23 - XML parser that can be easily integrated into other programs.
+  * 🎉 [TinyXML-2](https://github.com/leethomason/tinyxml2) ⭐ 5,714 | 🐛 134 | 🌐 C++ | 📅 2025-11-23 - XML parser that can be easily integrated into other programs.
   * 🎉 [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) ⭐ 3,151 | 🐛 4 | 🌐 C++ | 📅 2025-12-06 - Header-only, fast and memory-friendly hashmap and binary tree containers.
   * 🎉 [faker-cxx](https://github.com/cieslarmichal/faker-cxx) ⭐ 414 | 🐛 23 | 🌐 C++ | 📅 2026-02-06 - C++20 Faker library for generating fake (but realistic) data for testing and development.
   * 🎉 [Any-Lite](https://github.com/martinmoene/any-lite) ⭐ 153 | 🐛 1 | 🌐 C++ | 📅 2025-11-28 - Header-only 'any' type for C++98 and above.
   * 🎉 [Tiny-Process-Library](https://gitlab.com/eidheim/tiny-process-library) - Making it simple to create and stop new processes.
 * C++: Cross-Platform
-  * 🌎 [emscripten](https://github.com/emscripten-core/emscripten) ⭐ 27,180 | 🐛 2,398 | 🌐 C++ | 📅 2026-02-14 - The C/C++ to JavaScript (as WebAssembly) compiler. \[[Website](https://emscripten.org/)]
+  * 🌎 [emscripten](https://github.com/emscripten-core/emscripten) ⭐ 27,185 | 🐛 2,400 | 🌐 C++ | 📅 2026-02-14 - The C/C++ to JavaScript (as WebAssembly) compiler. \[[Website](https://emscripten.org/)]
 * C++: Scripting
-  * 🎉 [v8](https://github.com/v8/v8) ⭐ 24,842 | 🐛 7 | 🌐 C++ | 📅 2026-02-13 - High-performance JavaScript and WebAssembly engine by *Google*.
+  * 🎉 [v8](https://github.com/v8/v8) ⭐ 24,845 | 🐛 7 | 🌐 C++ | 📅 2026-02-15 - High-performance JavaScript and WebAssembly engine by *Google*.
   * 🎉 [ChaiScript](https://github.com/ChaiScript/ChaiScript) ⭐ 3,111 | 🐛 134 | 🌐 C++ | 📅 2025-07-30 - Embedded scripting language designed from to directly target C++17.
   * 🔒 [ArkScript](https://github.com/ArkScript-lang/Ark) ⭐ 694 | 🐛 5 | 🌐 C++ | 📅 2026-02-11 - Small, fast, functional and scripting language.
   * 🎉 [GameMonkey Script](https://github.com/publicrepo/gmscript) ⭐ 156 | 🐛 0 | 🌐 C++ | 📅 2022-07-11 - Embedded scripting language for apps, tools and games.
   * 🎉 [AngelScript](http://www.angelcode.com/angelscript/) - Cross-platform scripting library, follows the widely known syntax of C/C++.
-* 📚 [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features) ⭐ 21,456 | 🐛 6 | 📅 2026-02-08 - Cheatsheet of modern C++ language and library features.
+* 📚 [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features) ⭐ 21,458 | 🐛 4 | 📅 2026-02-14 - Cheatsheet of modern C++ language and library features.
 * C++: Graphics - 3D
-  * 🎉 [Filament](https://github.com/google/filament) ⭐ 19,622 | 🐛 195 | 🌐 C++ | 📅 2026-02-14 - Mobile-first, real-time physically-based renderer by *Google*.
-  * 🎉 [Bgfx](https://github.com/bkaradzic/bgfx) ⭐ 16,723 | 🐛 316 | 🌐 C++ | 📅 2026-02-12 - Cross-platform, graphics API agnostic, rendering library.
-  * 🎉 [Wicked Engine](https://github.com/turanszkij/WickedEngine) ⭐ 6,868 | 🐛 107 | 🌐 C | 📅 2026-02-13 - Engine focusing on performance & modern rendering techniques.
+  * 🎉 [Filament](https://github.com/google/filament) ⭐ 19,627 | 🐛 196 | 🌐 C++ | 📅 2026-02-14 - Mobile-first, real-time physically-based renderer by *Google*.
+  * 🎉 [Bgfx](https://github.com/bkaradzic/bgfx) ⭐ 16,729 | 🐛 317 | 🌐 C++ | 📅 2026-02-12 - Cross-platform, graphics API agnostic, rendering library.
+  * 🎉 [Wicked Engine](https://github.com/turanszkij/WickedEngine) ⭐ 6,873 | 🐛 107 | 🌐 C | 📅 2026-02-14 - Engine focusing on performance & modern rendering techniques.
   * 🎉 [Forge](https://github.com/ConfettiFX/The-Forge) ⭐ 5,464 | 🐛 13 | 🌐 C++ | 📅 2025-07-03 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
-  * 🎉 [Magnum Engine](https://github.com/mosra/magnum) ⭐ 5,119 | 🐛 78 | 🌐 C++ | 📅 2026-02-11 - Modular C++11 graphics middleware for games and apps.
-  * 🎉 [Ogre](https://github.com/OGRECave/ogre) ⭐ 4,489 | 🐛 168 | 🌐 C++ | 📅 2026-02-11 - Scene-oriented, flexible 3D engine.
-  * 🎉 [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,179 | 🐛 21 | 🌐 Batchfile | 📅 2026-02-13 - Modern cross-platform graphics API abstraction library.
+  * 🎉 [Magnum Engine](https://github.com/mosra/magnum) ⭐ 5,119 | 🐛 77 | 🌐 C++ | 📅 2026-02-11 - Modular C++11 graphics middleware for games and apps.
+  * 🎉 [Ogre](https://github.com/OGRECave/ogre) ⭐ 4,491 | 🐛 168 | 🌐 C++ | 📅 2026-02-11 - Scene-oriented, flexible 3D engine.
+  * 🎉 [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,180 | 🐛 21 | 🌐 Batchfile | 📅 2026-02-13 - Modern cross-platform graphics API abstraction library.
   * 🎉 [Intermediate Graphics Library (IGL)](https://github.com/facebook/igl) ⭐ 3,184 | 🐛 9 | 🌐 C++ | 📅 2026-02-13 - Cross-platform abstraction layer by *Facebook*.
-  * 🎉 [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,528 | 🐛 9 | 🌐 C++ | 📅 2026-01-18 - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
+  * 🎉 [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,529 | 🐛 9 | 🌐 C++ | 📅 2026-01-18 - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
   * 🎉 [Tungsten](https://github.com/tunabrain/tungsten) ⭐ 1,816 | 🐛 18 | 🌐 C++ | 📅 2022-03-10 - High-performance physically-based renderer in C++11.
-  * 🎉 [NVRHI](https://github.com/NVIDIA-RTX/NVRHI) ⭐ 1,765 | 🐛 22 | 🌐 C++ | 📅 2026-01-23 - *NVIDIA* abstraction layer over multiple graphics APIs.
+  * 🎉 [NVRHI](https://github.com/NVIDIA-RTX/NVRHI) ⭐ 1,767 | 🐛 22 | 🌐 C++ | 📅 2026-01-23 - *NVIDIA* abstraction layer over multiple graphics APIs.
   * 🎉 [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,580 | 🐛 21 | 🌐 C++ | 📅 2025-08-16 - 3D rendering and animation engine.
   * 🔒 [StratusGFX](https://github.com/KTStephano/StratusGFX) ⭐ 795 | 🐛 0 | 🌐 C++ | 📅 2025-06-12 - Realtime 3D rendering engine implementing modern graphics techniques.
   * 🎉 [Threepp](https://github.com/markaren/threepp) ⭐ 723 | 🐛 10 | 🌐 C++ | 📅 2026-02-02 - Cross-platform C++17 port of the popular 3D JavaScript library *Three.js* (r129).
   * 🎉 [OSRE](https://github.com/kimkulling/osre) ⭐ 200 | 🐛 24 | 🌐 C++ | 📅 2026-01-11 - Just another "Open Source Render Engine".
   * 🎉 [Ember](https://github.com/strah19/Ember) ⭐ 3 | 🐛 2 | 🌐 C | 📅 2022-02-13 - Graphics framework using SDL2 and OpenGL.
 * C++: Game Framework
-  * 🎉 [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 18,936 | 🐛 1,610 | 🌐 C++ | 📅 2025-05-09 - Widely used in indie game dev community.
-  * 💸 [Valve Source SDK](https://github.com/ValveSoftware/source-sdk-2013) ⭐ 9,576 | 🐛 946 | 🌐 C++ | 📅 2026-01-19 - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). \[[Info](https://en.wikipedia.org/wiki/Source_\(game_engine\)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
+  * 🎉 [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 18,940 | 🐛 1,610 | 🌐 C++ | 📅 2025-05-09 - Widely used in indie game dev community.
+  * 💸 [Valve Source SDK](https://github.com/ValveSoftware/source-sdk-2013) ⭐ 9,577 | 🐛 949 | 🌐 C++ | 📅 2026-01-19 - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). \[[Info](https://en.wikipedia.org/wiki/Source_\(game_engine\)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
   * 🎉 [Urho3D](https://github.com/urho3d/Urho3D) ⚠️ Archived - Cross-platform 2D/3D game framework.
-  * 🎉 [Halley](https://github.com/amzeratul/halley) ⭐ 3,799 | 🐛 45 | 🌐 C++ | 📅 2026-02-12 - Modern C++17. Used for *Wargroove*, a strategy game on desktop and consoles.
+  * 🎉 [Halley](https://github.com/amzeratul/halley) ⭐ 3,801 | 🐛 45 | 🌐 C++ | 📅 2026-02-12 - Modern C++17. Used for *Wargroove*, a strategy game on desktop and consoles.
   * 🎉 [Solar2D](https://github.com/coronalabs/corona) ⭐ 2,777 | 🐛 178 | 🌐 C++ | 📅 2026-02-08 - Focus on ease of iterations and usage. Formerly *Corona*.
   * 🎉 [Polycode](https://github.com/ivansafrin/Polycode) ⭐ 2,390 | 🐛 209 | 🌐 C++ | 📅 2024-03-19 - Cross-platform engine for creative code.
   * 🔒 [KlayGE](https://github.com/gongminmin/KlayGE) ⭐ 2,170 | 🐛 40 | 🌐 C++ | 📅 2025-11-05 - Cross-platform game framework with plugin-based architecture.
   * 🎉 [Oryol](https://github.com/floooh/oryol) ⭐ 2,060 | 🐛 53 | 🌐 C++ | 📅 2023-02-06 - Small, 3D, portable and extensible coding framework.
   * 🎉 [Acid](https://github.com/EQMG/Acid) ⭐ 1,941 | 🐛 20 | 🌐 C++ | 📅 2023-09-21 - Modern C++17 and structured to be fast, simple, and modular.
   * 🎉 [Two](https://github.com/hugoam/two) ⭐ 1,722 | 🐛 10 | 🌐 C++ | 📅 2023-11-21 - Toolkit for rapid development of live graphical apps and games.
-  * 🎉 [ORX](https://github.com/orx/orx) ⭐ 1,681 | 🐛 3 | 🌐 C | 📅 2026-02-08 - 2.5D data-driven game development framework.
-  * 🎉 [nCine](https://github.com/nCine/nCine) ⭐ 1,278 | 🐛 1 | 🌐 C++ | 📅 2026-02-10 - Cross-platform 2D game framework.
+  * 🎉 [ORX](https://github.com/orx/orx) ⭐ 1,682 | 🐛 3 | 🌐 C | 📅 2026-02-15 - 2.5D data-driven game development framework.
+  * 🎉 [nCine](https://github.com/nCine/nCine) ⭐ 1,279 | 🐛 1 | 🌐 C++ | 📅 2026-02-10 - Cross-platform 2D game framework.
   * ⭐ [Ouzel](https://github.com/elnormous/ouzel) ⭐ 986 | 🐛 18 | 🌐 C++ | 📅 2024-03-01 - Public domain, targeted for development of 2D games.
   * 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) ⭐ 812 | 🐛 15 | 🌐 C++ | 📅 2026-02-09 - Custom shaders, ECS, 2D/3D, networking and more.
-  * 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) ⭐ 759 | 🐛 9 | 🌐 C | 📅 2026-02-13 - Simple and consise framework for making 2D games.
+  * 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) ⭐ 761 | 🐛 9 | 🌐 C | 📅 2026-02-15 - Simple and consise framework for making 2D games.
   * 🎉 [Thunder](https://github.com/thunder-engine/thunder) ⭐ 631 | 🐛 35 | 🌐 C++ | 📅 2026-02-06 - Cross-platform 2D/3D with module architecture.
   * 🎉 [Koala Engine](https://github.com/phisko/kengine) ⭐ 616 | 🐛 1 | 🌐 C++ | 📅 2023-03-10 - Framework with an ECS architecture, aka *Kengine*.
   * 🎉 [blah](https://github.com/NoelFB/blah) ⭐ 607 | 🐛 2 | 🌐 C++ | 📅 2023-04-27 - Small 2D game framework.
-  * 🎉 [Octave](https://github.com/mholtkamp/octave) ⭐ 444 | 🐛 16 | 🌐 C++ | 📅 2026-02-14 - 3D game engine for GameCube, Wii, 3DS, and more.
+  * 🎉 [Octave](https://github.com/mholtkamp/octave) ⭐ 444 | 🐛 17 | 🌐 C++ | 📅 2026-02-14 - 3D game engine for GameCube, Wii, 3DS, and more.
   * 🎉 [Supernova](https://github.com/supernovaengine/supernova) ⭐ 376 | 🐛 2 | 🌐 C++ | 📅 2026-02-12 - Cross-platform for 2D/3D projects.
   * 🎉 [JNGL](https://github.com/jhasse/jngl) ⭐ 316 | 🐛 9 | 🌐 C++ | 📅 2026-02-09 - 2D framework. Develop anywhere, deploy everywhere.
   * 🎉 [is::Engine](https://github.com/Is-Daouda/is-Engine) ⭐ 228 | 🐛 3 | 🌐 C | 📅 2025-12-29 - 2D framework built on *SDL2* and *SFML*.
   * 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) ⭐ 218 | 🐛 21 | 🌐 C++ | 📅 2026-02-04 - Framework for building real-time graphics apps.
   * 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) ⭐ 40 | 🐛 4 | 🌐 C++ | 📅 2022-06-01 - Lightweight OpenGL framework for quick prototyping.
 * C++: Layout
-  * 🎉 [Yoga](https://github.com/facebook/yoga) ⭐ 18,723 | 🐛 139 | 🌐 C++ | 📅 2026-02-13 - Cross-platform [flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) layout engine by *Facebook*. \[[Website](https://yogalayout.com/)]
+  * 🎉 [Yoga](https://github.com/facebook/yoga) ⭐ 18,726 | 🐛 139 | 🌐 C++ | 📅 2026-02-13 - Cross-platform [flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) layout engine by *Facebook*. \[[Website](https://yogalayout.com/)]
 * C++: Network
-  * 🎉 [Cpp-HttpLib](https://github.com/yhirose/cpp-httplib) ⭐ 16,135 | 🐛 3 | 🌐 C++ | 📅 2026-02-13 - Single-header file HTTP server and client library in C++11.
-  * 🎉 [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) ⭐ 9,203 | 🐛 72 | 🌐 C++ | 📅 2025-12-05 - Messages over UDP, P2P networking, encryption.
-  * 🎉 [yojimbo](https://github.com/mas-bandwidth/yojimbo) ⭐ 2,653 | 🐛 8 | 🌐 C | 📅 2025-11-20 - Network library for client/server games.
+  * 🎉 [Cpp-HttpLib](https://github.com/yhirose/cpp-httplib) ⭐ 16,138 | 🐛 3 | 🌐 C++ | 📅 2026-02-15 - Single-header file HTTP server and client library in C++11.
+  * 🎉 [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) ⭐ 9,208 | 🐛 72 | 🌐 C++ | 📅 2025-12-05 - Messages over UDP, P2P networking, encryption.
+  * 🎉 [yojimbo](https://github.com/mas-bandwidth/yojimbo) ⭐ 2,654 | 🐛 8 | 🌐 C | 📅 2025-11-20 - Network library for client/server games.
 * C++: Physics
-  * 🎉 [Bullet Physics](https://github.com/bulletphysics/bullet3) ⭐ 14,226 | 🐛 403 | 🌐 C++ | 📅 2025-10-22 - Popular 3D physics libary.
-  * 🎉 [Jolt Physics](https://github.com/jrouwe/JoltPhysics) ⭐ 9,644 | 🐛 9 | 🌐 C++ | 📅 2026-02-11 - Multi-core friendly rigid body 3D physics and collision detection.
-  * 🎉 [Box2D](https://github.com/erincatto/box2d) ⭐ 9,498 | 🐛 24 | 🌐 C | 📅 2026-01-02 - Battle tested 2D physics for games. \[[Docs](https://box2d.org/documentation/) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
+  * 🎉 [Bullet Physics](https://github.com/bulletphysics/bullet3) ⭐ 14,229 | 🐛 403 | 🌐 C++ | 📅 2025-10-22 - Popular 3D physics libary.
+  * 🎉 [Jolt Physics](https://github.com/jrouwe/JoltPhysics) ⭐ 9,649 | 🐛 10 | 🌐 C++ | 📅 2026-02-11 - Multi-core friendly rigid body 3D physics and collision detection.
+  * 🎉 [Box2D](https://github.com/erincatto/box2d) ⭐ 9,500 | 🐛 25 | 🌐 C | 📅 2026-01-02 - Battle tested 2D physics for games. \[[Docs](https://box2d.org/documentation/) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
   * 🎉 [Liquid Fun](https://github.com/google/liquidfun) ⚠️ Archived - Extension of *Box2D*, adds particle-based fluid and soft bodies. \[[Demos](http://google.github.io/liquidfun/)]
-  * 🎉 [Chrono](https://github.com/projectchrono/chrono) ⭐ 2,724 | 🐛 72 | 🌐 C++ | 📅 2026-02-14 - High-performance multiphysics and multibody dynamics simulations. \[[Gallery](https://projectchrono.org/gallery/)]
+  * 🎉 [Chrono](https://github.com/projectchrono/chrono) ⭐ 2,725 | 🐛 67 | 🌐 C++ | 📅 2026-02-14 - High-performance multiphysics and multibody dynamics simulations. \[[Gallery](https://projectchrono.org/gallery/)]
   * 🎉 [ReactPhysics3D](https://github.com/DanielChappuis/reactphysics3d) ⭐ 1,714 | 🐛 87 | 🌐 C++ | 📅 2025-03-28 - 3D physics engine.
   * 🎉 [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics/) ⭐ 1,022 | 🐛 0 | 🌐 HTML | 📅 2026-01-17 - Real-time simulation of 3D environments.
   * 🎉 [Qu3e](https://github.com/RandyGaul/qu3e) ⚠️ Archived - Fast 3D physics engine, created to be used in games.
@@ -478,32 +478,32 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Slingshot](https://github.com/Slingshot-Physics/slingshot-community) ⭐ 154 | 🐛 0 | 🌐 C++ | 📅 2023-11-19 - Constraint-based physics engine for 3D rigid body dynamics.
   * 🎉 [ODE](http://www.ode.org/) - Open Dynamics Engine, 3D rigid body physics.
 * C++: Entity Component System
-  * 🎉 [Entt](https://github.com/skypjack/entt) ⭐ 12,274 | 🐛 20 | 🌐 C++ | 📅 2026-02-12 - Gaming meets modern C++, a fast and reliable entity component system.
+  * 🎉 [Entt](https://github.com/skypjack/entt) ⭐ 12,277 | 🐛 20 | 🌐 C++ | 📅 2026-02-12 - Gaming meets modern C++, a fast and reliable entity component system.
   * 🎉 [EntityX](https://github.com/alecthomas/entityx) ⭐ 2,326 | 🐛 18 | 🌐 C++ | 📅 2025-08-23 - Fast, type-safe C++ entity component system.
 * C++: App Framework
-  * 🎉 [SFML](https://github.com/SFML/SFML) ⭐ 11,652 | 🐛 146 | 🌐 C++ | 📅 2026-02-13 🔥 - Cross-platform access to windowing, graphics, audio and networking.
+  * 🎉 [SFML](https://github.com/SFML/SFML) ⭐ 11,654 | 🐛 146 | 🌐 C++ | 📅 2026-02-13 🔥 - Cross-platform access to windowing, graphics, audio and networking.
   * 🎉 [Cinder](https://github.com/cinder/Cinder) ⭐ 5,511 | 🐛 353 | 🌐 C++ | 📅 2026-02-11 - App / graphics library for macOS, Windows, Linux, iOS. \[[Website](https://libcinder.org)]
   * 🎉 [Cross Window](https://github.com/alaingalvan/CrossWindow) ⭐ 693 | 🐛 20 | 🌐 C++ | 📅 2024-08-15 - Platform library for managing windows and other OS tasks.
 * C++: Math
   * 🎉 [OpenGL Mathematics](https://github.com/g-truc/glm) ⭐ 10,694 | 🐛 108 | 🌐 C++ | 📅 2026-01-12 - Header-only math library for graphics software.
 * C++: Graphics - 2D
-  * 🎉 [Skia](https://github.com/google/skia) ⭐ 10,483 | 🐛 50 | 🌐 C++ | 📅 2026-02-13 - Complete 2D graphics library used in Chrome by *Google*. \[[Website](https://skia.org)]
+  * 🎉 [Skia](https://github.com/google/skia) ⭐ 10,483 | 🐛 51 | 🌐 C++ | 📅 2026-02-14 - Complete 2D graphics library used in Chrome by *Google*. \[[Website](https://skia.org)]
   * 🎉 [Blend2D](https://github.com/blend2d/blend2d) ⭐ 1,883 | 🐛 34 | 🌐 C++ | 📅 2025-11-29 - High-performance 2D vector graphics engine. \[[Website](https://blend2d.com/)]
   * 🎉 [vg-renderer](https://github.com/jdryg/vg-renderer) ⭐ 611 | 🐛 12 | 🌐 C | 📅 2025-12-13 - 2D vector graphics renderer for *Bgfx*, based on ideas from *NanoVG*.
-  * 🎉 [QNanoPainter](https://github.com/QUItCoding/qnanopainter) ⭐ 428 | 🐛 39 | 🌐 C | 📅 2024-04-29 - OpenGL accelerated vector drawing library for *Qt*, powered by *NanoVG*.
+  * 🎉 [QNanoPainter](https://github.com/QUItCoding/qnanopainter) ⭐ 429 | 🐛 39 | 🌐 C | 📅 2024-04-29 - OpenGL accelerated vector drawing library for *Qt*, powered by *NanoVG*.
   * 🎉 [C++ Bitmap Library](https://github.com/ArashPartow/bitmap) ⭐ 178 | 🐛 3 | 🌐 C++ | 📅 2020-11-21 - Featured bitmap loading and manipulation library.
 * C++: Audio
-  * 💰 [Juce](https://github.com/juce-framework/JUCE) ⭐ 8,060 | 🐛 438 | 🌐 C++ | 📅 2026-02-13 - The leading framework for multi-platform audio apps.
-  * 🎉 [Steam Audio](https://github.com/ValveSoftware/steam-audio) ⭐ 2,712 | 🐛 104 | 🌐 C++ | 📅 2026-02-11 - Cross-platform spatial audio SDK for games and VR.
-  * 🔒 [OpenAL Soft](https://github.com/kcat/openal-soft) ⭐ 2,600 | 🐛 263 | 🌐 C++ | 📅 2026-02-06 - Software implementation of the *OpenAL* 3D audio API.
-  * 🎉 [PortAudio](https://github.com/PortAudio/portaudio) ⭐ 1,974 | 🐛 373 | 🌐 C | 📅 2026-02-05 - Cross-platform audio library.
-  * 🎉 [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) ⭐ 70 | 🐛 1 | 🌐 C++ | 📅 2026-01-28 - Cross-platform audio engine designed for the needs of games.
+  * 💰 [Juce](https://github.com/juce-framework/JUCE) ⭐ 8,063 | 🐛 440 | 🌐 C++ | 📅 2026-02-13 - The leading framework for multi-platform audio apps.
+  * 🎉 [Steam Audio](https://github.com/ValveSoftware/steam-audio) ⭐ 2,713 | 🐛 105 | 🌐 C++ | 📅 2026-02-11 - Cross-platform spatial audio SDK for games and VR.
+  * 🔒 [OpenAL Soft](https://github.com/kcat/openal-soft) ⭐ 2,601 | 🐛 264 | 🌐 C++ | 📅 2026-02-14 - Software implementation of the *OpenAL* 3D audio API.
+  * 🎉 [PortAudio](https://github.com/PortAudio/portaudio) ⭐ 1,976 | 🐛 373 | 🌐 C | 📅 2026-02-05 - Cross-platform audio library.
+  * 🎉 [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) ⭐ 70 | 🐛 0 | 🌐 C++ | 📅 2026-02-15 - Cross-platform audio engine designed for the needs of games.
   * 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
 * C++: Geometry
-  * 🎉 [Recast & Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,556 | 🐛 121 | 🌐 C++ | 📅 2026-02-09 - Navigation-mesh toolset for games.
-  * 🎉 [MeshOptimizer](https://github.com/zeux/meshoptimizer) ⭐ 7,272 | 🐛 7 | 🌐 C++ | 📅 2026-02-12 - Mesh optimization library that makes meshes smaller and faster to render.
+  * 🎉 [Recast & Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,559 | 🐛 121 | 🌐 C++ | 📅 2026-02-09 - Navigation-mesh toolset for games.
+  * 🎉 [MeshOptimizer](https://github.com/zeux/meshoptimizer) ⭐ 7,274 | 🐛 7 | 🌐 C++ | 📅 2026-02-12 - Mesh optimization library that makes meshes smaller and faster to render.
   * 🔒 [Libigl](https://github.com/libigl/libigl) ⭐ 4,955 | 🐛 149 | 🌐 C++ | 📅 2026-02-11 - Simple geometry processing library.
-  * 🔒 [Easy3D](https://github.com/LiangliangNan/Easy3D) ⭐ 1,602 | 🐛 5 | 🌐 C++ | 📅 2025-06-11 - Easy-to-use library for 3D modeling, geometry processing, and rendering.
+  * 🔒 [Easy3D](https://github.com/LiangliangNan/Easy3D) ⭐ 1,603 | 🐛 5 | 🌐 C++ | 📅 2025-06-11 - Easy-to-use library for 3D modeling, geometry processing, and rendering.
   * 🎉 [V-HACD](https://github.com/kmammou/v-hacd) ⭐ 1,595 | 🐛 68 | 🌐 C++ | 📅 2025-09-18 - Decomposes a 3D surface into a set of "near" convex parts.
   * 🎉 [Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library) ⭐ 1,449 | 🐛 19 | 🌐 C++ | 📅 2026-01-26 - Processing / visualizing polygon surface meshes.
   * 🎉 [CinoLib](https://github.com/mlivesu/cinolib) ⭐ 1,079 | 🐛 6 | 🌐 C++ | 📅 2026-02-11 - Header-only library for processing polygonal and polyhedral meshes.
@@ -521,24 +521,24 @@ This includes things typically not found in low-level game engines, app / game f
 * C++: Reflection
   * 🎉 [Magic Enum](https://github.com/Neargye/magic_enum) ⭐ 5,956 | 🐛 19 | 🌐 C++ | 📅 2026-02-07 - Header-only C++17, provides static reflection for enums.
   * 🎉 [RTTR](https://github.com/rttrorg/rttr) ⭐ 3,434 | 🐛 152 | 🌐 C++ | 📅 2024-04-25 - Reflection for C++11.
-  * 🎉 [Nameof](https://github.com/Neargye/nameof) ⭐ 2,282 | 🐛 3 | 🌐 C++ | 📅 2024-10-14 - Header-only C++17, provides nameof macros to obtain name of a variable.
+  * 🎉 [Nameof](https://github.com/Neargye/nameof) ⭐ 2,283 | 🐛 3 | 🌐 C++ | 📅 2024-10-14 - Header-only C++17, provides nameof macros to obtain name of a variable.
   * 🎉 [Boost.PFR](https://github.com/boostorg/pfr) ⭐ 1,465 | 🐛 44 | 🌐 C++ | 📅 2026-02-11 - Basic reflection C++14 library, part of the Boost Libraries.
   * 🎉 [Ponder](https://github.com/billyquith/ponder) ⚠️ Archived - Expose C++17 classes and objects so they can used as data.
   * 🎉 [Meta](https://github.com/skypjack/meta) ⚠️ Archived - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
   * 🎉 [Reflect](https://github.com/stevinz/reflect) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2023-02-07 - Small, flexible, single-header library for runtime reflection and meta data in C++11.
 * C++: Fonts
-  * 🎉 [HarfBuzz](https://github.com/harfbuzz/harfbuzz) ⭐ 5,354 | 🐛 90 | 🌐 C++ | 📅 2026-02-13 - Text shaping library. Formatted and positioned glyph output.
+  * 🎉 [HarfBuzz](https://github.com/harfbuzz/harfbuzz) ⭐ 5,355 | 🐛 89 | 🌐 C++ | 📅 2026-02-15 - Text shaping library. Formatted and positioned glyph output.
   * 🎉 [msdfgen](https://github.com/Chlumsky/msdfgen) ⭐ 4,671 | 🐛 7 | 🌐 C++ | 📅 2025-11-30 - Multi-channel signed distance field generator.
   * 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
 * 📚 [Awesome Hpp](https://github.com/p-ranav/awesome-hpp) ⭐ 4,056 | 🐛 21 | 📅 2025-11-06 - List of awesome header-only C++ libraries.
 * C++: Game Engine w/Editor
-  * 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) ⭐ 3,772 | 🐛 35 | 🌐 C++ | 📅 2026-02-14 - A 3D game engine with *Dear ImGui* based editor.
-  * 🎉 [Torque 3D](https://github.com/GarageGames/Torque3D) ⭐ 3,365 | 🐛 372 | 🌐 C++ | 📅 2022-04-03 - High-performance 3D engine built on *The Forge*.
+  * 🎉 [Lumix Engine](https://github.com/nem0/LumixEngine) ⭐ 3,773 | 🐛 36 | 🌐 C++ | 📅 2026-02-14 - A 3D game engine with *Dear ImGui* based editor.
+  * 🎉 [Torque 3D](https://github.com/GarageGames/Torque3D) ⭐ 3,366 | 🐛 372 | 🌐 C++ | 📅 2022-04-03 - High-performance 3D engine built on *The Forge*.
   * 🎉 [Spartan Engine](https://github.com/PanosK92/SpartanEngine) ⭐ 2,899 | 🐛 21 | 🌐 C++ | 📅 2026-02-13 - Emphasis on quality and performance.
   * 🎉 [Overload](https://github.com/adriengivry/Overload) ⭐ 2,393 | 🐛 123 | 🌐 C++ | 📅 2026-02-02 - Well documented 3D game engine inspired by industry standards.
-  * 🔒 [Crown Engine](https://github.com/crownengine/crown) ⭐ 2,346 | 🐛 61 | 🌐 C++ | 📅 2026-02-13 - Data-driven 3D and 2D game engine.
-  * 🎉 [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 1,894 | 🐛 31 | 🌐 C++ | 📅 2026-02-11 - Game engine in active development.
-  * 🔒 [UPBGE](https://github.com/UPBGE/upbge) ⭐ 1,732 | 🐛 143 | 🌐 C++ | 📅 2026-02-14 - Blender game engine, originally forked from *Blender*.
+  * 🔒 [Crown Engine](https://github.com/crownengine/crown) ⭐ 2,346 | 🐛 61 | 🌐 C++ | 📅 2026-02-14 - Data-driven 3D and 2D game engine.
+  * 🎉 [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 1,894 | 🐛 33 | 🌐 C++ | 📅 2026-02-14 - Game engine in active development.
+  * 🔒 [UPBGE](https://github.com/UPBGE/upbge) ⭐ 1,732 | 🐛 143 | 🌐 C++ | 📅 2026-02-15 - Blender game engine, originally forked from *Blender*.
   * 🎉 [AnKi 3D Engine](https://github.com/godlikepanos/anki-3d-engine) ⭐ 1,566 | 🐛 11 | 🌐 C++ | 📅 2026-02-13 - Vulkan backend, modern renderer, scripting, physics and more.
   * 🎉 [Lumos](https://github.com/jmorton06/Lumos) ⭐ 1,476 | 🐛 2 | 🌐 C++ | 📅 2026-01-22 - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
   * 🎉 [MxEngine](https://github.com/asc-community/MxEngine) ⭐ 1,219 | 🐛 18 | 🌐 C++ | 📅 2024-04-06 - Modern-C++ general-purpose 3D game engine.
@@ -548,9 +548,9 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) ⭐ 742 | 🐛 30 | 🌐 C++ | 📅 2026-02-10 - Upgraded features including audio, physics and particles. Built on *Irrlicht*.
   * 🎉 [Ethereal Engine](https://github.com/ir-engine/etherealengine-archive) ⚠️ Archived - Cross-platform game engine and editor.
   * 🎉 [Limon Engine](https://github.com/enginmanap/limonEngine) ⭐ 678 | 🐛 47 | 🌐 C++ | 📅 2026-02-11 - 3D FPS game engine with full dynamic lighting and shadows.
-  * 🎉 [FIFE](https://github.com/fifengine/fifengine) ⭐ 576 | 🐛 46 | 🌐 C++ | 📅 2026-02-12 - Multi-platform isometric game engine.
-  * 🔒 [neoGFX](https://github.com/i42output/neogfx) ⭐ 565 | 🐛 49 | 🌐 C++ | 📅 2026-02-11 - Cross-platform app and game engine.
-  * 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) ⭐ 490 | 🐛 37 | 🌐 C++ | 📅 2026-02-13 - High-performance research engine for production pipeline.
+  * 🎉 [FIFE](https://github.com/fifengine/fifengine) ⭐ 575 | 🐛 46 | 🌐 C++ | 📅 2026-02-15 - Multi-platform isometric game engine.
+  * 🔒 [neoGFX](https://github.com/i42output/neogfx) ⭐ 565 | 🐛 49 | 🌐 C++ | 📅 2026-02-14 - Cross-platform app and game engine.
+  * 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) ⭐ 490 | 🐛 37 | 🌐 C++ | 📅 2026-02-14 - High-performance research engine for production pipeline.
   * 🔒 [Enigma](https://github.com/enigma-dev/enigma-dev) ⭐ 367 | 🐛 155 | 🌐 C++ | 📅 2026-01-26 - GameMaker compatible 2D engine.
   * 🎉 [Crystal Engine](https://github.com/neelmewada/CrystalEngine) ⭐ 262 | 🐛 2 | 🌐 C++ | 📅 2026-02-05 - Vulkan backend with PBR and styled GUI (*CrystalWidgets*).
   * 🎉 [Rootex](https://github.com/sdslabs/rootex) ⭐ 234 | 🐛 60 | 🌐 C++ | 📅 2025-05-04 - Advanced C++ 3D game engine powering an in-production game.
@@ -558,17 +558,17 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. \[[Website](https://irrlicht.sourceforge.io/)]
 * C++: File Formats
   * 🎉 [TinyOBJLoader](https://github.com/tinyobjloader/tinyobjloader) ⭐ 3,735 | 🐛 4 | 🌐 C++ | 📅 2026-02-13 - Tiny but powerful single-file wavefront obj loader.
-  * 🎉 [TinyGLTF](https://github.com/syoyo/tinygltf) ⭐ 2,397 | 🐛 13 | 🌐 C++ | 📅 2026-02-05 - Header-only C++11 tiny glTF 2.0 library.
+  * 🎉 [TinyGLTF](https://github.com/syoyo/tinygltf) ⭐ 2,398 | 🐛 13 | 🌐 C++ | 📅 2026-02-05 - Header-only C++11 tiny glTF 2.0 library.
   * 🎉 [TinyEXR](https://github.com/syoyo/tinyexr) ⭐ 804 | 🐛 1 | 🌐 C++ | 📅 2026-02-12 - Tiny OpenEXR image loader / saver library.
   * ⭐ [Jpeg-Compressor](https://github.com/richgel999/jpeg-compressor) ⭐ 241 | 🐛 14 | 🌐 C | 📅 2024-04-12 - Single-file library that writes baseline JPEG compressed images.
   * 🎉 [TinyDNG](https://github.com/syoyo/tinydng) ⭐ 178 | 🐛 19 | 🌐 C++ | 📅 2025-05-24 - Header-only DNG / TIFF loader and writer.
 * C++: Visual Programming / Nodes
-  * 🎉 [NodeEditor](https://github.com/paceholder/nodeeditor) ⭐ 3,573 | 🐛 84 | 🌐 C++ | 📅 2026-02-10 - Graph-controlled data processing, built with *Qt*.
+  * 🎉 [NodeEditor](https://github.com/paceholder/nodeeditor) ⭐ 3,574 | 🐛 84 | 🌐 C++ | 📅 2026-02-10 - Graph-controlled data processing, built with *Qt*.
   * 🎉 [QuickQanava](https://github.com/cneben/QuickQanava) ⭐ 1,345 | 🐛 28 | 🌐 C++ | 📅 2025-12-19 - Display graphs and relational content in a *QtQuick*-based app, in C++14.
   * 🎉 [Visual Script Engine](https://github.com/kovacsv/VisualScriptEngine) ⭐ 214 | 🐛 13 | 🌐 C++ | 📅 2024-05-20 - Visual scripting engine designed for embedding.
 * C++: Animation
-  * 🎉 [Ozz-Animation](https://github.com/guillaumeblanc/ozz-animation) ⭐ 2,774 | 🐛 26 | 🌐 C++ | 📅 2026-01-10 - Skeletal animation library and toolset.
-  * 🎉 [Tweeny](https://github.com/mobius3/tweeny) ⭐ 816 | 🐛 18 | 🌐 C++ | 📅 2025-12-26 - Inbetweening library for complex animations for games / apps.
+  * 🎉 [Ozz-Animation](https://github.com/guillaumeblanc/ozz-animation) ⭐ 2,776 | 🐛 26 | 🌐 C++ | 📅 2026-01-10 - Skeletal animation library and toolset.
+  * 🎉 [Tweeny](https://github.com/mobius3/tweeny) ⭐ 817 | 🐛 18 | 🌐 C++ | 📅 2025-12-26 - Inbetweening library for complex animations for games / apps.
 * C++: Input
   * 🎉 [Oryol Input](https://github.com/floooh/oryol/tree/043683dcb3181beb64ae1c85ea76e4a4eb71c124/code/Modules/Input) ⭐ 2,060 | 🐛 53 | 🌐 C++ | 📅 2023-02-06 - Input module from the *Oryol* game framework.
   * 🎉 [Gainput](https://github.com/jkuhlmann/gainput) ⚠️ Archived - Easy to use input library.
@@ -595,60 +595,60 @@ This includes things typically not found in low-level game engines, app / game f
 ### C\#
 
 * C#: Cross-Platform
-  * 🌎 [Blazor](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) ⭐ 37,696 | 🐛 3,693 | 🌐 C# | 📅 2026-02-14 - C# to JavaScript (as WebAssembly) technology by *Microsoft*. \[[Website](origin/\(https:/dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\))]
+  * 🌎 [Blazor](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) ⭐ 37,699 | 🐛 3,692 | 🌐 C# | 📅 2026-02-15 - C# to JavaScript (as WebAssembly) technology by *Microsoft*. \[[Website](origin/\(https:/dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\))]
   * 🎉 [Mono](https://github.com/mono/mono) ⭐ 11,423 | 🐛 2,273 | 🌐 C# | 📅 2024-08-27 - Open source implementation of *Microsoft*'s .NET Framework.
 * C#: Gui
-  * 🎉 [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 30,051 | 🐛 1,915 | 🌐 C# | 📅 2026-02-13 - Cross-platform gui framework for .NET. \[[Website](https://avaloniaui.net/)]
-  * 🎉 [Uno](https://github.com/unoplatform/uno) ⭐ 9,816 | 🐛 1,502 | 🌐 C# | 📅 2026-02-13 - Mobile, desktop and WebAssembly gui library. \[[Website](https://platform.uno/)]
-  * 🎉 [Myra](https://github.com/rds1983/Myra) ⭐ 836 | 🐛 74 | 🌐 C# | 📅 2025-12-12 - Gui library for *MonoGame*, *FNA*, and *Stride*.
+  * 🎉 [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 30,055 | 🐛 1,919 | 🌐 C# | 📅 2026-02-14 - Cross-platform gui framework for .NET. \[[Website](https://avaloniaui.net/)]
+  * 🎉 [Uno](https://github.com/unoplatform/uno) ⭐ 9,819 | 🐛 1,502 | 🌐 C# | 📅 2026-02-13 - Mobile, desktop and WebAssembly gui library. \[[Website](https://platform.uno/)]
+  * 🎉 [Myra](https://github.com/rds1983/Myra) ⭐ 836 | 🐛 73 | 🌐 C# | 📅 2026-02-14 - Gui library for *MonoGame*, *FNA*, and *Stride*.
   * 🎉 [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) ⭐ 508 | 🐛 18 | 🌐 C# | 📅 2024-04-25 - Gui for *MonoGame* projects.
   * 🎉 [MonoGame.Forms](https://github.com/BlizzCrafter/MonoGame.Forms) ⭐ 306 | 🐛 0 | 🌐 C# | 📅 2025-08-18 - *MonoGame* render window for Windows Forms.
   * 🎉 [Apos.Gui](https://github.com/Apostolique/Apos.Gui) ⭐ 215 | 🐛 1 | 🌐 C# | 📅 2026-01-24 - UI library for *MonoGame*.
   * 🎉 [Squid](https://github.com/Roderik11/Squid) ⭐ 147 | 🐛 0 | 🌐 C# | 📅 2024-07-11 - C# Realtime GUI System.
   * 🎉 [MGUI](https://github.com/Videogamers0/MGUI) ⭐ 95 | 🐛 6 | 🌐 C# | 📅 2026-02-11 - UI framework for the *MonoGame* game framework.
 * C#: Game Framework
-  * 🎉 [MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 13,156 | 🐛 719 | 🌐 C# | 📅 2026-02-12 🔥 - Framework for creating cross-platform games. \[[Website](https://www.monogame.net/)]
-  * 🎉 [FNA](https://github.com/FNA-XNA/FNA) ⭐ 2,925 | 🐛 29 | 🌐 C# | 📅 2026-02-01 - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
+  * 🎉 [MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 13,158 | 🐛 719 | 🌐 C# | 📅 2026-02-12 🔥 - Framework for creating cross-platform games. \[[Website](https://www.monogame.net/)]
+  * 🎉 [FNA](https://github.com/FNA-XNA/FNA) ⭐ 2,926 | 🐛 29 | 🌐 C# | 📅 2026-02-01 - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
   * 🎉 [Nez](https://github.com/prime31/Nez) ⭐ 2,014 | 🐛 52 | 🌐 C# | 📅 2026-01-30 - Feature-rich 2D framework built on *MonoGame*.
   * 🎉 [Monofoxe](https://github.com/Martenfur/Monofoxe) ⭐ 442 | 🐛 2 | 🌐 C# | 📅 2025-08-15 - Game engine designed to simplify working with *MonoGame*.
   * 🎉 [Protogame](https://github.com/RedpointGames/Protogame) ⚠️ Archived - Cross-platform 2D/3D game engine built on *MonoGame*.
 * C#: Game Engine w/Editor
-  * 🎉 [Stride](https://github.com/stride3d/stride) ⭐ 7,452 | 🐛 737 | 🌐 C# | 📅 2026-02-13 - Game engine for realistic rendering and VR. Formerly *Xenko*. \[[Website](https://www.stride3d.net/)]
-  * 🎉 [Murder](https://github.com/isadorasophia/murder) ⭐ 3,168 | 🐛 18 | 🌐 C# | 📅 2026-02-13 - Pixel-art, ECS game engine built on *MonoGame*. \[[Docs](https://isadorasophia.com/murder/)]
+  * 🎉 [Stride](https://github.com/stride3d/stride) ⭐ 7,454 | 🐛 737 | 🌐 C# | 📅 2026-02-13 - Game engine for realistic rendering and VR. Formerly *Xenko*. \[[Website](https://www.stride3d.net/)]
+  * 🎉 [Murder](https://github.com/isadorasophia/murder) ⭐ 3,171 | 🐛 18 | 🌐 C# | 📅 2026-02-14 - Pixel-art, ECS game engine built on *MonoGame*. \[[Docs](https://isadorasophia.com/murder/)]
   * 🎉 [Duality](https://github.com/AdamsLair/duality) ⚠️ Archived - Modular 2D engine, editor built with *OpenTK*.
   * 🎉 [Flat Red Ball](https://github.com/vchelaru/FlatRedBall) ⭐ 535 | 🐛 129 | 🌐 C# | 📅 2026-02-09 - 2D game engine & design tools, built with *MonoGame*. \[[Website](https://flatredball.com/)]
   * 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 * C#: Audio
-  * 🎉 [NAudio](https://github.com/naudio/NAudio) ⭐ 6,088 | 🐛 519 | 🌐 C# | 📅 2025-07-05 - Audio and MIDI library for .NET.
+  * 🎉 [NAudio](https://github.com/naudio/NAudio) ⭐ 6,090 | 🐛 519 | 🌐 C# | 📅 2025-07-05 - Audio and MIDI library for .NET.
 * C#: Graphics - 3D
-  * 🎉 [OpenTK](https://github.com/opentk/opentk) ⭐ 3,480 | 🐛 76 | 🌐 C# | 📅 2025-12-28 - Open Toolkit, C# bindings for OpenGL. \[[LearnOpenTK](https://github.com/opentk/LearnOpenTK) ⭐ 498 | 🐛 13 | 🌐 C# | 📅 2025-05-03]
+  * 🎉 [OpenTK](https://github.com/opentk/opentk) ⭐ 3,480 | 🐛 77 | 🌐 C# | 📅 2025-12-28 - Open Toolkit, C# bindings for OpenGL. \[[LearnOpenTK](https://github.com/opentk/LearnOpenTK) ⭐ 498 | 🐛 13 | 🌐 C# | 📅 2025-05-03]
   * 🎉 [Veldrid](https://github.com/mellinoe/veldrid) ⭐ 2,649 | 🐛 159 | 🌐 C# | 📅 2024-06-13 - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
 * C#: Utility
-  * 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) ⭐ 3,475 | 🐛 204 | 🌐 C# | 📅 2025-07-29 - Steamworks implementation.
+  * 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) ⭐ 3,479 | 🐛 204 | 🌐 C# | 📅 2025-07-29 - Steamworks implementation.
   * 🎉 [Monogame.Extended](https://github.com/MonoGame-Extended/Monogame-Extended) ⭐ 1,699 | 🐛 74 | 🌐 C# | 📅 2026-02-05 - Extensions to make *MonoGame* more awesome.
 * C#: App Framework
   * 🎉 [ATF](https://github.com/SonyWWS/ATF) ⭐ 1,920 | 🐛 9 | 🌐 C# | 📅 2020-04-18 - Components for making tools on Windows, started in 2005.
 * C#: Entity Component System
-  * 🎉 [Arch](https://github.com/genaray/Arch) ⭐ 1,583 | 🐛 35 | 🌐 C# | 📅 2025-11-18 - High-performance ECS with optional multithreading.
+  * 🎉 [Arch](https://github.com/genaray/Arch) ⭐ 1,585 | 🐛 35 | 🌐 C# | 📅 2025-11-18 - High-performance ECS with optional multithreading.
   * 🎉 [DefaultEcs](https://github.com/Doraku/DefaultEcs) ⭐ 746 | 🐛 20 | 🌐 C# | 📅 2024-03-01 - ECS framework designed for game development.
-  * 🎉 [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 533 | 🐛 36 | 🌐 C# | 📅 2026-02-05 - High-performance C# ECS.
+  * 🎉 [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 535 | 🐛 36 | 🌐 C# | 📅 2026-02-05 - High-performance C# ECS.
   * 🎉 [LeoECS](https://github.com/Leopotam/ecs) ⚠️ Archived - ECS framework powered by C# with optional integration to *Unity*.
 * C#: Geometry
-  * 🎉 [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 839 | 🐛 17 | 🌐 C# | 📅 2026-02-08 - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
+  * 🎉 [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 840 | 🐛 17 | 🌐 C# | 📅 2026-02-08 - A port of *Recast & Detour*, navigation mesh toolset for games, Unity3D, servers, C#.
 * C#: Physics
   * 🎉 [Velcro Physics](https://github.com/Genbox/VelcroPhysics) ⭐ 726 | 🐛 22 | 🌐 C# | 📅 2021-08-01 - C# port of Box2D. Formerly *Farseer Physics*.
   * 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) ⚠️ Archived - 2D physics library with continuous collision detection.
-  * 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 154 | 🐛 6 | 🌐 C# | 📅 2026-02-08 - A port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
+  * 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 154 | 🐛 6 | 🌐 C# | 📅 2026-02-15 - A port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
 * C#: Layout
-  * 🎉 [Gum](https://github.com/vchelaru/Gum) ⭐ 414 | 🐛 126 | 🌐 C# | 📅 2026-02-14 - Flexible layout tool for creating UI on any platform.
+  * 🎉 [Gum](https://github.com/vchelaru/Gum) ⭐ 418 | 🐛 122 | 🌐 C# | 📅 2026-02-15 - Flexible layout tool for creating UI on any platform.
 * 📚 [Dot Net Perls](https://www.dotnetperls.com) - Reference for the C# language.
 
 ### Dart
 
 * Dart: App Framework
-  * 🎉 [Flutter](https://flutter.dev) - Open source app framework by *Google*. \[[Awesome](https://github.com/Solido/awesome-flutter) ⭐ 58,944 | 🐛 20 | 🌐 Dart | 📅 2026-02-11 | [GitHub](https://github.com/flutter)]
+  * 🎉 [Flutter](https://flutter.dev) - Open source app framework by *Google*. \[[Awesome](https://github.com/Solido/awesome-flutter) ⭐ 58,957 | 🐛 20 | 🌐 Dart | 📅 2026-02-11 | [GitHub](https://github.com/flutter)]
 * Dart: Game Framework
-  * 🎉 [Flame](https://github.com/flame-engine/flame) ⭐ 10,408 | 🐛 120 | 🌐 Dart | 📅 2026-02-13 - Minimalist *Flutter* based 2D game engine. \[[Awesome](https://github.com/flame-engine/awesome-flame#readme) ⭐ 1,299 | 🐛 0 | 📅 2026-02-05 | [Examples](https://examples.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
+  * 🎉 [Flame](https://github.com/flame-engine/flame) ⭐ 10,410 | 🐛 120 | 🌐 Dart | 📅 2026-02-13 - Minimalist *Flutter* based 2D game engine. \[[Awesome](https://github.com/flame-engine/awesome-flame#readme) ⭐ 1,299 | 🐛 0 | 📅 2026-02-05 | [Examples](https://examples.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
 * 📚 [Awesome Dart](https://github.com/yissachar/awesome-dart) ⭐ 2,474 | 🐛 16 | 📅 2024-05-31 - Curated list of awesome Dart frameworks, libraries, and software.
 * Dart: File Formats
   * 🎉 [image](https://github.com/brendan-duncan/image) ⭐ 1,247 | 🐛 151 | 🌐 Dart | 📅 2026-02-05 - Library for decoding / encoding image formats and image processing.
@@ -656,9 +656,9 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### F\#
 
-* 📚 [Awesome F#](https://github.com/fsprojects/awesome-fsharp) ⭐ 1,397 | 🐛 3 | 🌐 F# | 📅 2026-01-18 - Curated list of frameworks, libraries, software and resources.
+* 📚 [Awesome F#](https://github.com/fsprojects/awesome-fsharp) ⭐ 1,398 | 🐛 3 | 🌐 F# | 📅 2026-01-18 - Curated list of frameworks, libraries, software and resources.
 * F#: Game Engine w/Editor
-  * 🎉 [Nu Game Engine](https://github.com/bryanedds/Nu) ⭐ 1,306 | 🐛 174 | 🌐 F# | 📅 2026-02-13 - Cross-platform game engine built in the functional style.
+  * 🎉 [Nu Game Engine](https://github.com/bryanedds/Nu) ⭐ 1,307 | 🐛 175 | 🌐 F# | 📅 2026-02-14 - Cross-platform game engine built in the functional style.
 * F#: Gui
   * 🎉 [Fabulous](https://github.com/fabulous-dev/Fabulous) ⭐ 1,249 | 🐛 13 | 🌐 F# | 📅 2025-11-14 - Declarative UI framework for cross-platform apps.
 * F#: Entity Component System
@@ -669,15 +669,15 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Go
 
-* 📚 [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 164,978 | 🐛 182 | 🌐 Go | 📅 2026-02-13 - Awesome Go frameworks, libraries and software.
+* 📚 [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 165,056 | 🐛 182 | 🌐 Go | 📅 2026-02-13 - Awesome Go frameworks, libraries and software.
 * Go: Game Framework
-  * 🎉 [Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 12,953 | 🐛 299 | 🌐 Go | 📅 2026-02-13 - Dead simple 2D game library.
+  * 🎉 [Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 12,954 | 🐛 300 | 🌐 Go | 📅 2026-02-14 - Dead simple 2D game library.
   * 🎉 [Pixel](https://github.com/faiface/pixel) ⭐ 4,529 | 🐛 45 | 🌐 Go | 📅 2024-05-23 - Hand-crafted 2D game library. \[[Examples](https://github.com/faiface/pixel-examples) ⭐ 121 | 🐛 1 | 🌐 Go | 📅 2023-03-06]
   * 🎉 [Engo](https://github.com/EngoEngine/engo) ⭐ 1,815 | 🐛 53 | 🌐 Go | 📅 2025-08-28 - A 2D game framework.
 * Go: Graphics
-  * 🎉 [ln](https://github.com/fogleman/ln) ⭐ 3,354 | 🐛 12 | 🌐 Go | 📅 2019-07-19 - The 3D Line Art Engine, a vector-based 3D renderer. \[[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
+  * 🎉 [ln](https://github.com/fogleman/ln) ⭐ 3,355 | 🐛 12 | 🌐 Go | 📅 2019-07-19 - The 3D Line Art Engine, a vector-based 3D renderer. \[[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
 * Go: Game Engine w/Editor
-  * 🎉 [G3N](https://github.com/g3n/engine) ⭐ 3,066 | 🐛 35 | 🌐 Go | 📅 2026-01-09 - OpenGL 3D game engine.
+  * 🎉 [G3N](https://github.com/g3n/engine) ⭐ 3,067 | 🐛 35 | 🌐 Go | 📅 2026-01-09 - OpenGL 3D game engine.
 * Go: Audio
   * 🎉 [Beep](https://github.com/faiface/beep) ⭐ 2,197 | 🐛 75 | 🌐 Go | 📅 2024-03-19 - Playback and audio-processing.
 * Go: Geometry
@@ -686,17 +686,17 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Haxe
 
-* 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub](https://github.com/HaxeFoundation/haxe) ⭐ 6,840 | 🐛 1,105 | 🌐 Haxe | 📅 2026-02-12]
+* 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub](https://github.com/HaxeFoundation/haxe) ⭐ 6,837 | 🐛 1,105 | 🌐 Haxe | 📅 2026-02-12]
 * Haxe: Game Engine w/Editor
   * 🎉 [LDtk](https://github.com/deepnight/ldtk) ⭐ 3,912 | 🐛 356 | 🌐 Haxe | 📅 2025-11-14 🔥 - Modern, lightweight and efficient 2D level editor. \[[Website](https://ldtk.io)]
-  * 🎉 [Armory](https://github.com/armory3d/armory) ⭐ 3,268 | 🐛 371 | 🌐 C++ | 📅 2026-02-05 - 3D game engine with full *Blender* integration.
+  * 🎉 [Armory](https://github.com/armory3d/armory) ⭐ 3,267 | 🐛 371 | 🌐 C++ | 📅 2026-02-05 - 3D game engine with full *Blender* integration.
   * 🎉 [Hide](https://github.com/heapsio/hide) ⭐ 617 | 🐛 31 | 🌐 Haxe | 📅 2026-02-12 - Extensible IDE for the *Heaps* 3D graphic engine.
   * 🎉 [Starling](https://github.com/openfl/starling) ⭐ 260 | 🐛 14 | 🌐 Haxe | 📅 2026-02-05 - Popular (*Angry Birds*) 2D game engine built on *OpenFL*. \[[Editor](http://starlingbuilder.github.io) | [Website](https://gamua.com/starling/)]
   * 🎉 [Away3D](https://github.com/openfl/away3d) ⭐ 220 | 🐛 27 | 🌐 Haxe | 📅 2026-01-13 - Real-time 3D engine for OpenFL. \[[Website](http://away3d.com)]
   * 🎉 [Flixel-Studio](https://github.com/Dovyski/flixel-studio) ⭐ 111 | 🐛 9 | 🌐 Haxe | 📅 2023-01-02 - Embeddable, in-game editor for *HaxeFlixel*.
 * Haxe: Graphics
   * 🎉 [Heaps](https://github.com/HeapsIO/heaps) ⭐ 3,436 | 🐛 177 | 🌐 Haxe | 📅 2026-02-13 🔥 - Cross-platform 2D/3D engine (by creators of Haxe). \[[Website](https://heaps.io)]
-  * 🎉 [Kha](https://github.com/Kode/Kha) ⭐ 1,600 | 🐛 141 | 🌐 C | 📅 2026-01-14 - Ultra-portable, high-performance multimedia framework.
+  * 🎉 [Kha](https://github.com/Kode/Kha) ⭐ 1,599 | 🐛 141 | 🌐 C | 📅 2026-01-14 - Ultra-portable, high-performance multimedia framework.
   * 🎉 [Sparkler](https://github.com/AndreiRudenko/sparkler) ⭐ 17 | 🐛 2 | 🌐 Haxe | 📅 2025-04-27 - Modular macro-powered particle system.
 * Haxe: Game Framework
   * 🎉 [HaxeFlixel](https://github.com/HaxeFlixel/flixel) ⭐ 2,161 | 🐛 268 | 🌐 Haxe | 📅 2026-02-11 - Cross-platform 2D game framework powered by *OpenFL*. \[[Website](https://haxeflixel.com/)]
@@ -709,7 +709,7 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [HashLink](https://github.com/HaxeFoundation/hashlink/) ⭐ 867 | 🐛 77 | 🌐 C | 📅 2026-02-10 - Virtual machine for Haxe.
 * Haxe: Serialization / Storage
   * 🎉 [CastleDB](https://github.com/ncannasse/castle) ⭐ 599 | 🐛 56 | 🌐 Haxe | 📅 2026-02-06 - Structured database with a local web service to edit it.
-  * 🎉 [HxBit](https://github.com/HeapsIO/hxbit) ⭐ 159 | 🐛 12 | 🌐 Haxe | 📅 2026-02-13 - Binary serialization and network synchronization library.
+  * 🎉 [HxBit](https://github.com/HeapsIO/hxbit) ⭐ 159 | 🐛 12 | 🌐 Haxe | 📅 2026-02-14 - Binary serialization and network synchronization library.
   * 🎉 [Format](https://github.com/HaxeFoundation/format) ⭐ 137 | 🐛 18 | 🌐 Haxe | 📅 2025-12-02 - Various files formats support for Haxe.
 * Haxe: App Framework
   * 🎉 [nme](https://github.com/haxenme/nme) ⭐ 497 | 🐛 44 | 🌐 C | 📅 2026-01-28 - Cross-platform native backend for Haxe projects.
@@ -748,19 +748,19 @@ This includes things typically not found in low-level game engines, app / game f
 ### Lua
 
 * Lua: Game Framework
-  * 🎉 [LÖVE](https://github.com/love2d/love) ⭐ 7,719 | 🐛 114 | 🌐 C++ | 📅 2026-01-22 - 2D framework for writing game code with Lua. \[[Awesome](https://github.com/love2d-community/awesome-love2d) ⭐ 4,220 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29 | [Website](https://love2d.org)]
+  * 🎉 [LÖVE](https://github.com/love2d/love) ⭐ 7,728 | 🐛 112 | 🌐 C++ | 📅 2026-02-15 - 2D framework for writing game code with Lua. \[[Awesome](https://github.com/love2d-community/awesome-love2d) ⭐ 4,221 | 🐛 2 | 🌐 PowerShell | 📅 2026-01-29 | [Website](https://love2d.org)]
   * 🎉 [Gideros](https://github.com/gideros/gideros) ⭐ 605 | 🐛 44 | 🌐 C | 📅 2026-01-30 - 2D/3D cross-platform games with Lua. \[[Website](http://giderosmobile.com/)]
   * 🎉 [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) ⭐ 463 | 🐛 14 | 🌐 Lua | 📅 2023-05-25 - 3D engine on top of *LÖVE*.
   * 🎉 [INSTEAD](https://github.com/instead-hub/instead) ⭐ 252 | 🐛 10 | 🌐 C | 📅 2025-03-02 - Simple Text Adventure Interpreter.
-* 📚 [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,459 | 🐛 47 | 📅 2024-08-11 - Awesome Lua packages and resources.
+* 📚 [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,458 | 🐛 47 | 📅 2024-08-11 - Awesome Lua packages and resources.
 
 ### Java
 
-* 📚 [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 47,020 | 🐛 3 | 📅 2026-02-07 - Awesome frameworks, libraries and software for Java.
+* 📚 [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 47,037 | 🐛 3 | 📅 2026-02-07 - Awesome frameworks, libraries and software for Java.
 * Java: Game Framework
-  * 🎉 [libGDX](https://github.com/libgdx/libgdx) ⭐ 24,802 | 🐛 328 | 🌐 Java | 📅 2026-02-03 - Game framework built on, and adds to *LWJGL*. \[[Awesome](https://github.com/rafaskb/awesome-libgdx#readme) ⭐ 1,220 | 🐛 8 | 📅 2024-12-03 | [Website](https://libgdx.com/)]
+  * 🎉 [libGDX](https://github.com/libgdx/libgdx) ⭐ 24,803 | 🐛 328 | 🌐 Java | 📅 2026-02-03 - Game framework built on, and adds to *LWJGL*. \[[Awesome](https://github.com/rafaskb/awesome-libgdx#readme) ⭐ 1,220 | 🐛 8 | 📅 2024-12-03 | [Website](https://libgdx.com/)]
   * 🎉 [LWJGL](https://github.com/LWJGL/lwjgl3) ⭐ 5,255 | 🐛 85 | 🌐 Java | 📅 2026-02-13 - Graphics, audio, parallel computing, XR and more. \[[Website](https://www.lwjgl.org/)]
-  * 🎉 [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) ⭐ 4,144 | 🐛 256 | 🌐 Java | 📅 2026-02-12 - Modern 3D game development suite.
+  * 🎉 [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) ⭐ 4,147 | 🐛 253 | 🌐 Java | 📅 2026-02-15 - Modern 3D game development suite.
 * 📚 [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) ⭐ 1,892 | 🐛 13 | 🌐 Java | 📅 2019-05-23 - OpenGL / GLSL tutorials for *LWJGL* and *libGDX*.
 * Java: Gui
   * 🎉 [VisUI](https://github.com/kotcrab/vis-ui) ⭐ 763 | 🐛 26 | 🌐 Java | 📅 2026-02-09 - A *libGDX* UI toolkit.
@@ -770,21 +770,21 @@ This includes things typically not found in low-level game engines, app / game f
 ### JavaScript
 
 * JavaScript: Framework
-  * 🎉 [React](https://github.com/facebook/react/) ⭐ 242,986 | 🐛 1,114 | 🌐 JavaScript | 📅 2026-02-13 - Declarative, efficient, and flexible JavaScript library for building user interfaces.
-  * 🎉 [Vue](https://github.com/vuejs/vue) ⭐ 209,882 | 🐛 621 | 🌐 TypeScript | 📅 2024-10-10 - Progressive JavaScript framework for building UI on the web.
-  * 🎉 [Angular](https://github.com/angular/angular) ⭐ 99,825 | 🐛 1,101 | 🌐 TypeScript | 📅 2026-02-14 - The modern web developer's platform.
-  * 🎉 [Svelte](https://github.com/sveltejs/svelte) ⭐ 85,751 | 🐛 965 | 🌐 JavaScript | 📅 2026-02-13 - Takes your declarative components and converts them into efficient JavaScript.
-  * 🎉 [Preact](https://github.com/preactjs/preact) ⭐ 38,376 | 🐛 154 | 🌐 JavaScript | 📅 2026-02-13 - Fast 3kB React alternative with the same modern API.
-  * 🎉 [Alpine](https://github.com/alpinejs/alpine) ⭐ 31,160 | 🐛 13 | 🌐 HTML | 📅 2026-02-12 - Rugged, minimal framework for composing JavaScript behavior in your markup.
-  * 🎉 [Ember](https://github.com/emberjs/ember.js) ⭐ 22,571 | 🐛 430 | 🌐 TypeScript | 📅 2026-02-13 - Framework for ambitious web developers.
-  * 🎉 [Aurelia](https://github.com/aurelia/framework) ⭐ 11,700 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27 - Modern, front-end framework for browser, mobile, and desktop apps.
+  * 🎉 [React](https://github.com/facebook/react/) ⭐ 242,996 | 🐛 1,114 | 🌐 JavaScript | 📅 2026-02-13 - Declarative, efficient, and flexible JavaScript library for building user interfaces.
+  * 🎉 [Vue](https://github.com/vuejs/vue) ⭐ 209,887 | 🐛 622 | 🌐 TypeScript | 📅 2024-10-10 - Progressive JavaScript framework for building UI on the web.
+  * 🎉 [Angular](https://github.com/angular/angular) ⭐ 99,835 | 🐛 1,111 | 🌐 TypeScript | 📅 2026-02-14 - The modern web developer's platform.
+  * 🎉 [Svelte](https://github.com/sveltejs/svelte) ⭐ 85,759 | 🐛 964 | 🌐 JavaScript | 📅 2026-02-14 - Takes your declarative components and converts them into efficient JavaScript.
+  * 🎉 [Preact](https://github.com/preactjs/preact) ⭐ 38,378 | 🐛 155 | 🌐 JavaScript | 📅 2026-02-14 - Fast 3kB React alternative with the same modern API.
+  * 🎉 [Alpine](https://github.com/alpinejs/alpine) ⭐ 31,164 | 🐛 13 | 🌐 HTML | 📅 2026-02-12 - Rugged, minimal framework for composing JavaScript behavior in your markup.
+  * 🎉 [Ember](https://github.com/emberjs/ember.js) ⭐ 22,572 | 🐛 430 | 🌐 TypeScript | 📅 2026-02-14 - Framework for ambitious web developers.
+  * 🎉 [Aurelia](https://github.com/aurelia/framework) ⭐ 11,701 | 🐛 60 | 🌐 TypeScript | 📅 2023-01-27 - Modern, front-end framework for browser, mobile, and desktop apps.
 * JavaScript: Gui
-  * 🎉 [Bootstrap](https://github.com/twbs/bootstrap) ⭐ 173,969 | 🐛 576 | 🌐 MDX | 📅 2026-02-10 - Popular. Develop responsive, mobile first projects. \[[Website](https://getbootstrap.com/)]
-  * 🎉 [Inferno](https://github.com/infernojs/inferno) ⭐ 16,410 | 🐛 39 | 🌐 JavaScript | 📅 2026-01-30 - React-like library for building high-performance user interfaces.
+  * 🎉 [Bootstrap](https://github.com/twbs/bootstrap) ⭐ 173,974 | 🐛 575 | 🌐 MDX | 📅 2026-02-15 - Popular. Develop responsive, mobile first projects. \[[Website](https://getbootstrap.com/)]
+  * 🎉 [Inferno](https://github.com/infernojs/inferno) ⭐ 16,410 | 🐛 39 | 🌐 JavaScript | 📅 2026-02-14 - React-like library for building high-performance user interfaces.
   * 🎉 [jQuery UI](https://github.com/jquery/jquery-ui) ⭐ 11,345 | 🐛 148 | 🌐 JavaScript | 📅 2026-02-09 - The official gui library for jQuery.
   * 🎉 [dat.GUI](https://github.com/dataarts/dat.gui) ⭐ 7,724 | 🐛 121 | 🌐 JavaScript | 📅 2026-01-24 - Lightweight gui for changing variables in JavaScript.
-  * 🎉 [Leva](https://github.com/pmndrs/leva) ⭐ 5,805 | 🐛 114 | 🌐 TypeScript | 📅 2025-11-09 - React-first components gui.
-  * 🎉 [Tweakpane](https://github.com/cocopon/tweakpane) ⭐ 4,397 | 🐛 33 | 🌐 TypeScript | 📅 2025-11-11 - Compact gui for fine-tuning values.
+  * 🎉 [Leva](https://github.com/pmndrs/leva) ⭐ 5,807 | 🐛 114 | 🌐 TypeScript | 📅 2025-11-09 - React-first components gui.
+  * 🎉 [Tweakpane](https://github.com/cocopon/tweakpane) ⭐ 4,399 | 🐛 33 | 🌐 TypeScript | 📅 2025-11-11 - Compact gui for fine-tuning values.
   * 🎉 [w2ui](https://github.com/vitmalina/w2ui) ⭐ 2,734 | 🐛 374 | 🌐 JavaScript | 📅 2026-01-10 - Gui widgets for modern web apps.
   * 🎉 [Zebkit](https://github.com/barmalei/zebkit) ⭐ 934 | 🐛 51 | 🌐 HTML | 📅 2025-07-01 - Canvas rendered UI component libary.
   * 🎉 [PCUI](https://github.com/playcanvas/pcui) ⭐ 746 | 🐛 25 | 🌐 TypeScript | 📅 2026-02-04 - UI component library for the web by *PlayCanvas*.
@@ -794,38 +794,38 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [GuiGui](https://github.com/superguigui/guigui) ⭐ 72 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-06 - Gui for tweaking stuff in JavaScript. \[[Demo](https://superguigui.github.io/guigui/)]
   * 🎉 [Magic Circle](https://github.com/dpwoert/magic-circle) ⭐ 46 | 🐛 28 | 🌐 TypeScript | 📅 2024-06-20 - Multi-functional gui. Inspired by dat.GUI, Unity and Framer.
 * JavaScript: Cross-Platform
-  * 🎉 [React Native](https://github.com/facebook/react-native) ⭐ 125,346 | 🐛 1,186 | 🌐 C++ | 📅 2026-02-14 - Framework for building native apps using React. \[[Website](https://reactnative.dev/)]
-  * 🎉 [Electron](https://github.com/electron/electron) ⭐ 120,086 | 🐛 900 | 🌐 C++ | 📅 2026-02-14 - Cross-platform desktop apps with JavaScript, HTML, and CSS. \[[Website](https://www.electronjs.org/)]
-  * 🎉 [Tauri](https://github.com/tauri-apps/tauri) ⭐ 102,675 | 🐛 1,359 | 🌐 Rust | 📅 2026-02-13 - Smaller, faster, and more secure desktop applications. \[[Website](https://tauri.app/)]
-  * 🎉 [NW.js](https://github.com/nwjs/nw.js) ⭐ 41,626 | 🐛 956 | 🌐 JavaScript | 📅 2026-02-13 - Desktop apps with JavaScript. Formerly *Node-Webkit*. \[[Website](https://nwjs.io)]
-  * 🎉 [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 15,001 | 🐛 299 | 🌐 TypeScript | 📅 2026-02-13 - Run web apps natively on iOS, Android, Web, and more. \[[Website](https://capacitorjs.com/)]
+  * 🎉 [React Native](https://github.com/facebook/react-native) ⭐ 125,362 | 🐛 1,187 | 🌐 C++ | 📅 2026-02-14 - Framework for building native apps using React. \[[Website](https://reactnative.dev/)]
+  * 🎉 [Electron](https://github.com/electron/electron) ⭐ 120,093 | 🐛 902 | 🌐 C++ | 📅 2026-02-14 - Cross-platform desktop apps with JavaScript, HTML, and CSS. \[[Website](https://www.electronjs.org/)]
+  * 🎉 [Tauri](https://github.com/tauri-apps/tauri) ⭐ 102,705 | 🐛 1,361 | 🌐 Rust | 📅 2026-02-14 - Smaller, faster, and more secure desktop applications. \[[Website](https://tauri.app/)]
+  * 🎉 [NW.js](https://github.com/nwjs/nw.js) ⭐ 41,627 | 🐛 956 | 🌐 JavaScript | 📅 2026-02-14 - Desktop apps with JavaScript. Formerly *Node-Webkit*. \[[Website](https://nwjs.io)]
+  * 🎉 [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 15,007 | 🐛 299 | 🌐 TypeScript | 📅 2026-02-13 - Run web apps natively on iOS, Android, Web, and more. \[[Website](https://capacitorjs.com/)]
   * 🎉 [Ejecta](https://github.com/phoboslab/Ejecta) ⭐ 2,808 | 🐛 49 | 🌐 Objective-C | 📅 2021-06-22 - JavaScript canvas & audio implementation for iOS. App store compatible.
   * 🎉 [Window.js](https://github.com/windowjs/windowjs) ⭐ 2,269 | 🐛 38 | 🌐 JavaScript | 📅 2023-03-08 - JavaScript runtime for desktop graphics programming. \[[Docs](https://windowjs.org/)]
-  * 📚 [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) ⭐ 2,083 | 🐛 2 | 📅 2025-09-25 - Cross-platform gui app development options.
+  * 📚 [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) ⭐ 2,086 | 🐛 2 | 📅 2025-09-25 - Cross-platform gui app development options.
   * 🎉 [nx.js](https://github.com/TooTallNate/nx.js/) ⭐ 239 | 🐛 21 | 🌐 C++ | 📅 2025-12-15 - JavaScript runtime for Nintendo Switch homebrew applications.
   * 🎉 [Apache Cordova](https://cordova.apache.org) - Mobile apps (iOS / Android) with with JavaScript, HTML, and CSS.
   * 📚 [Progressive Web Apps](https://web.dev/progressive-web-apps/) - Using web tech in a way that feels like platform-specific apps.
   * 💸 [Ultralight](https://ultralig.ht/) - Supports modern HTML5, CSS, and JavaScript. Based on *WebKit*.
   * 🎉 [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) - Microsoft Edge control allows you to embed web in native apps. \[[Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)]
 * JavaScript: Animation
-  * 🎉 [D3.js](https://github.com/d3/d3) ⭐ 112,318 | 🐛 27 | 🌐 Shell | 📅 2025-12-02 - Data-Driven Documents. Bring data to life with SVG, canvas and HTML. \[[Examples](https://observablehq.com/@d3/gallery) | [Website](https://d3js.org)]
-  * 🎉 [Animate.css](https://github.com/animate-css/animate.css) ⭐ 82,635 | 🐛 73 | 🌐 CSS | 📅 2024-07-29 - Ready-to-use, pure CSS animations. \[[Examples](https://animate.style/)]
-  * 🎉 [React-Spring](https://github.com/pmndrs/react-spring) ⭐ 29,031 | 🐛 136 | 🌐 TypeScript | 📅 2026-02-14 - Spring physics based React animation library.
-  * 💸 [GreenSock](https://github.com/greensock/GSAP) ⭐ 23,808 | 🐛 9 | 🌐 JavaScript | 📅 2025-12-12 - Robust animation toolset. \[[Website](https://greensock.com)]
-  * 🎉 [Theatre](https://github.com/theatre-js/theatre) ⭐ 12,176 | 🐛 139 | 🌐 TypeScript | 📅 2024-08-14 - Motion design editor for the web.
+  * 🎉 [D3.js](https://github.com/d3/d3) ⭐ 112,329 | 🐛 27 | 🌐 Shell | 📅 2025-12-02 - Data-Driven Documents. Bring data to life with SVG, canvas and HTML. \[[Examples](https://observablehq.com/@d3/gallery) | [Website](https://d3js.org)]
+  * 🎉 [Animate.css](https://github.com/animate-css/animate.css) ⭐ 82,632 | 🐛 73 | 🌐 CSS | 📅 2024-07-29 - Ready-to-use, pure CSS animations. \[[Examples](https://animate.style/)]
+  * 🎉 [React-Spring](https://github.com/pmndrs/react-spring) ⭐ 29,031 | 🐛 136 | 🌐 TypeScript | 📅 2026-02-15 - Spring physics based React animation library.
+  * 💸 [GreenSock](https://github.com/greensock/GSAP) ⭐ 23,816 | 🐛 9 | 🌐 JavaScript | 📅 2025-12-12 - Robust animation toolset. \[[Website](https://greensock.com)]
+  * 🎉 [Theatre](https://github.com/theatre-js/theatre) ⭐ 12,177 | 🐛 139 | 🌐 TypeScript | 📅 2024-08-14 - Motion design editor for the web.
   * 🎉 [Tween.js](https://github.com/tweenjs/tween.js) ⭐ 10,111 | 🐛 23 | 🌐 TypeScript | 📅 2025-01-11 - Tweening engine for easy animations using Robert Penner's equations.
   * 🎉 [TweenJS](https://github.com/CreateJS/TweenJS) ⭐ 3,557 | 🐛 11 | 🌐 JavaScript | 📅 2023-12-18 - Tweening / animation library, part of the *CreateJS* suite.
   * 🎉 [Scene.js](https://github.com/daybrush/scenejs) ⭐ 2,771 | 🐛 26 | 🌐 TypeScript | 📅 2023-06-19 - JavaScript & CSS timeline-based animation library.
-  * 🎉 [Ossos](https://github.com/sketchpunklabs/ossos) ⭐ 489 | 🐛 13 | 🌐 TypeScript | 📅 2025-11-19 - Web-based character animation system.
+  * 🎉 [Ossos](https://github.com/sketchpunklabs/ossos) ⭐ 490 | 🐛 13 | 🌐 TypeScript | 📅 2025-11-19 - Web-based character animation system.
 * JavaScript: Graphics - 3D
-  * 🎉 [Three.js](https://github.com/mrdoob/three.js/) ⭐ 110,863 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-13 🔥 - General-purpose 3D library. \[[Awesome](https://github.com/0xAxiome/awesome-threejs) ⭐ 853 | 🐛 2 | 📅 2025-06-30 | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
-  * 🎉 [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,076 | 🐛 30 | 🌐 TypeScript | 📅 2026-02-14 🔥 - Powerful web rendering engine. \[[Extensions](https://github.com/BabylonJS/Extensions) ⭐ 187 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-07 | [Website](https://www.babylonjs.com/)]
-  * 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) ⭐ 19,622 | 🐛 195 | 🌐 C++ | 📅 2026-02-14 - WebAssembly build of Google's 3D graphics library, *Filament*.
-  * 🎉 [Regl](https://github.com/regl-project/regl) ⭐ 5,526 | 🐛 122 | 🌐 JavaScript | 📅 2026-01-30 - Fast functional WebGL.
-  * ⭐ [OGL](https://github.com/oframe/ogl) ⭐ 4,432 | 🐛 23 | 🌐 JavaScript | 📅 2025-04-13 🔥 - Fast, powerful, minimal WebGL library. \[[Examples](https://oframe.github.io/ogl/examples)]
+  * 🎉 [Three.js](https://github.com/mrdoob/three.js/) ⭐ 110,880 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-14 🔥 - General-purpose 3D library. \[[Awesome](https://github.com/0xAxiome/awesome-threejs) ⭐ 853 | 🐛 2 | 📅 2025-06-30 | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
+  * 🎉 [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,086 | 🐛 30 | 🌐 TypeScript | 📅 2026-02-14 🔥 - Powerful web rendering engine. \[[Extensions](https://github.com/BabylonJS/Extensions) ⭐ 187 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-07 | [Website](https://www.babylonjs.com/)]
+  * 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) ⭐ 19,627 | 🐛 196 | 🌐 C++ | 📅 2026-02-14 - WebAssembly build of Google's 3D graphics library, *Filament*.
+  * 🎉 [Regl](https://github.com/regl-project/regl) ⭐ 5,525 | 🐛 122 | 🌐 JavaScript | 📅 2026-01-30 - Fast functional WebGL.
+  * ⭐ [OGL](https://github.com/oframe/ogl) ⭐ 4,433 | 🐛 23 | 🌐 JavaScript | 📅 2025-04-13 🔥 - Fast, powerful, minimal WebGL library. \[[Examples](https://oframe.github.io/ogl/examples)]
   * 🎉 [TWGL](https://github.com/greggman/twgl.js) ⭐ 2,956 | 🐛 54 | 🌐 JavaScript | 📅 2025-10-13 - Tiny WebGL helper Library. \[[Examples](http://twgljs.org/)]
   * 🎉 [ClayGL](https://github.com/pissang/claygl) ⭐ 2,854 | 🐛 42 | 🌐 JavaScript | 📅 2025-12-18 - WebGL library for scalable Web3D applications.
-  * 🎉 [LUME](https://github.com/lume/lume) ⭐ 1,488 | 🐛 125 | 🌐 TypeScript | 📅 2026-02-09 - Simplifies the creation of interactive 2D/3D experiences.
+  * 🎉 [LUME](https://github.com/lume/lume) ⭐ 1,489 | 🐛 125 | 🌐 TypeScript | 📅 2026-02-09 - Simplifies the creation of interactive 2D/3D experiences.
   * 🎉 [SwissGL](https://github.com/google/swissgl) ⭐ 1,224 | 🐛 12 | 🌐 JavaScript | 📅 2025-07-15 - Minimalistic wrapper on top of WebGL2.
   * 🎉 [x3dom](https://github.com/x3dom/x3dom) ⭐ 846 | 🐛 243 | 🌐 HTML | 📅 2026-01-24 - Integrate 3D content seamlessly into your webpage.
   * 🎉 [Pixi3D](https://github.com/jnsmalm/pixi3d) ⭐ 818 | 🐛 9 | 🌐 TypeScript | 📅 2024-05-30 - 3D renderer for *PixiJS*, seamless integration with 2D apps. \[[Examples](https://pixi3d.org/)]
@@ -833,30 +833,30 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Hilo3d](https://github.com/hiloteam/Hilo3d) ⭐ 661 | 🐛 11 | 🌐 JavaScript | 📅 2026-02-06 - WebGL 3D rendering engine by *Alibaba*.
   * 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) ⭐ 377 | 🐛 8 | 🌐 JavaScript | 📅 2021-07-02 - WebGL 3D engine library, used by WebGLStudio.
   * 🎉 [Four](https://github.com/CodyJasonBennett/four) ⭐ 357 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-11 - Minimal three.js alternative.
-  * 🎉 [ThingJS](https://github.com/uinosoft/t3d.js) ⭐ 210 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-10 - Lightweight, extendable 3D library, aka *t3d*.
+  * 🎉 [ThingJS](https://github.com/uinosoft/t3d.js) ⭐ 211 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-10 - Lightweight, extendable 3D library, aka *t3d*.
   * 🎉 [RedGL](https://github.com/redcamel/RedGL2) ⭐ 157 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-11 - JavaScript 3D WebGL library.
   * 🎉 [CopperLicht](https://ambiera.com/copperlicht/) - A 3D library for WebGL. \[[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
   * 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
   * 📚 [WebGL / WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
 * JavaScript: Networking
-  * 🎉 [Socket.io](https://github.com/socketio/socket.io) ⭐ 62,863 | 🐛 202 | 🌐 TypeScript | 📅 2026-01-23 - Enables real-time bidirectional event-based communication.
+  * 🎉 [Socket.io](https://github.com/socketio/socket.io) ⭐ 62,867 | 🐛 203 | 🌐 TypeScript | 📅 2026-01-23 - Enables real-time bidirectional event-based communication.
   * 🎉 [WebRTC](https://webrtc.org/) - Supports video, voice, and generic data to be sent between peers.
 * JavaScript: Utility
-  * 🎉 [jQuery](https://github.com/jquery/jquery) ⭐ 59,840 | 🐛 99 | 🌐 JavaScript | 📅 2026-02-09 - Fast and feature-rich JavaScript library. \[[Website](https://jquery.com)]
-  * 🎉 [Day.js](https://github.com/iamkun/dayjs) ⭐ 48,544 | 🐛 1,192 | 🌐 JavaScript | 📅 2026-01-12 - Fast 2kB alternative to [Moment.js](https://github.com/moment/moment) ⭐ 48,066 | 🐛 290 | 🌐 JavaScript | 📅 2024-08-14 with the same modern API.
-  * 🎉 [Clipboard.js](https://github.com/zenorocha/clipboard.js) ⭐ 34,181 | 🐛 15 | 🌐 JavaScript | 📅 2026-02-12 - Small, modern copy to clipboard.
-  * 🎉 [i18next](https://github.com/i18next/i18next) ⭐ 8,470 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-13 - Popular internationalization framework.
+  * 🎉 [jQuery](https://github.com/jquery/jquery) ⭐ 59,844 | 🐛 97 | 🌐 JavaScript | 📅 2026-02-14 - Fast and feature-rich JavaScript library. \[[Website](https://jquery.com)]
+  * 🎉 [Day.js](https://github.com/iamkun/dayjs) ⭐ 48,543 | 🐛 1,193 | 🌐 JavaScript | 📅 2026-01-12 - Fast 2kB alternative to [Moment.js](https://github.com/moment/moment) ⭐ 48,066 | 🐛 290 | 🌐 JavaScript | 📅 2024-08-14 with the same modern API.
+  * 🎉 [Clipboard.js](https://github.com/zenorocha/clipboard.js) ⭐ 34,182 | 🐛 15 | 🌐 JavaScript | 📅 2026-02-12 - Small, modern copy to clipboard.
+  * 🎉 [i18next](https://github.com/i18next/i18next) ⭐ 8,472 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-13 - Popular internationalization framework.
   * 🎉 [PreloadJS](https://github.com/CreateJS/PreloadJS) ⭐ 2,880 | 🐛 66 | 🌐 JavaScript | 📅 2023-07-24 - Preloading assets w/progress events.
   * 🎉 [Struct Vec](https://github.com/moomoolive/struct-vec) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-10 - JavaScript array-like containers for multithreading.
 * JavaScript: Graphics - 2D
-  * 🎉 [PixiJS](https://github.com/pixijs/pixijs) ⭐ 46,595 | 🐛 306 | 🌐 TypeScript | 📅 2026-02-13 🔥 - Fast, lightweight 2D library. \[[Awesome](https://github.com/cursedcoder/awesome-pixijs) ⭐ 773 | 🐛 2 | 📅 2023-10-08 | [Editor](https://github.com/Megabyteceer/thing-editor) ⭐ 405 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-02 | [Essentials](https://github.com/ShukantPal/pixi-essentials) ⭐ 306 | 🐛 27 | 🌐 TypeScript | 📅 2024-10-08 | [Website](https://pixijs.com/)]
-  * 🎉 [Fabric.js](https://github.com/fabricjs/fabric.js) ⭐ 30,927 | 🐛 468 | 🌐 TypeScript | 📅 2026-02-11 - Powerful and simple JavaScript canvas library.
-  * 🎉 [p5.js](https://github.com/processing/p5.js) ⭐ 23,422 | 🐛 499 | 🌐 JavaScript | 📅 2026-02-12 - Library for creative coding. \[[Website](https://p5js.org)]
+  * 🎉 [PixiJS](https://github.com/pixijs/pixijs) ⭐ 46,599 | 🐛 306 | 🌐 TypeScript | 📅 2026-02-13 🔥 - Fast, lightweight 2D library. \[[Awesome](https://github.com/cursedcoder/awesome-pixijs) ⭐ 773 | 🐛 2 | 📅 2023-10-08 | [Editor](https://github.com/Megabyteceer/thing-editor) ⭐ 405 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-02 | [Essentials](https://github.com/ShukantPal/pixi-essentials) ⭐ 306 | 🐛 27 | 🌐 TypeScript | 📅 2024-10-08 | [Website](https://pixijs.com/)]
+  * 🎉 [Fabric.js](https://github.com/fabricjs/fabric.js) ⭐ 30,929 | 🐛 468 | 🌐 TypeScript | 📅 2026-02-11 - Powerful and simple JavaScript canvas library.
+  * 🎉 [p5.js](https://github.com/processing/p5.js) ⭐ 23,428 | 🐛 499 | 🌐 JavaScript | 📅 2026-02-12 - Library for creative coding. \[[Website](https://p5js.org)]
   * 🎉 [Paper.js](https://github.com/paperjs/paper.js) ⭐ 14,968 | 🐛 430 | 🌐 JavaScript | 📅 2024-07-23 - The swiss army knife of vector graphics. \[[Examples](http://paperjs.org/)]
-  * 🎉 [Konva](https://github.com/konvajs/konva) ⭐ 14,123 | 🐛 22 | 🌐 TypeScript | 📅 2026-02-05 - Canvas interactivity framework for desktop and mobile apps.
-  * 🎉 [CanvasKit](https://github.com/google/skia/tree/main/modules/canvaskit) ⭐ 10,483 | 🐛 50 | 🌐 C++ | 📅 2026-02-13 - WebAssembly build of *Google*'s 2D graphics library, Skia. \[[Samples](https://skia.org/docs/user/modules/canvaskit/)]
-  * 🎉 [Two.js](https://github.com/jonobr1/two.js) ⭐ 8,604 | 🐛 48 | 🌐 JavaScript | 📅 2026-02-04 - Renderer agnostic 2D drawing API for the web.
-  * 🎉 [EaselJS](https://github.com/CreateJS/EaselJS) ⭐ 8,191 | 🐛 222 | 🌐 JavaScript | 📅 2026-01-24 - Makes working with the canvas element easy, part of [CreateJS](https://createjs.com/).
+  * 🎉 [Konva](https://github.com/konvajs/konva) ⭐ 14,125 | 🐛 22 | 🌐 TypeScript | 📅 2026-02-05 - Canvas interactivity framework for desktop and mobile apps.
+  * 🎉 [CanvasKit](https://github.com/google/skia/tree/main/modules/canvaskit) ⭐ 10,483 | 🐛 51 | 🌐 C++ | 📅 2026-02-14 - WebAssembly build of *Google*'s 2D graphics library, Skia. \[[Samples](https://skia.org/docs/user/modules/canvaskit/)]
+  * 🎉 [Two.js](https://github.com/jonobr1/two.js) ⭐ 8,605 | 🐛 48 | 🌐 JavaScript | 📅 2026-02-04 - Renderer agnostic 2D drawing API for the web.
+  * 🎉 [EaselJS](https://github.com/CreateJS/EaselJS) ⭐ 8,193 | 🐛 222 | 🌐 JavaScript | 📅 2026-01-24 - Makes working with the canvas element easy, part of [CreateJS](https://createjs.com/).
   * 🎉 [Pts](https://github.com/williamngan/pts) ⭐ 5,318 | 🐛 52 | 🌐 TypeScript | 📅 2024-09-01 - Library for visualization and creative coding. \[[Examples](https://ptsjs.org)]
   * 🎉 [Stage.js](https://github.com/piqnt/stage.js) ⭐ 2,542 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - 2D rendering engine for game development. \[[Examples](https://piqnt.com/stage.js/)]
   * 🎉 [ZIM](https://github.com/danzen/zimjs) ⭐ 568 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-13 - Creative canvas framework. \[[Website](https://zimjs.com/)]
@@ -864,52 +864,52 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Pencil.js](https://github.com/pencil-js/pencil.js) ⭐ 289 | 🐛 8 | 🌐 JavaScript | 📅 2024-09-12 - Modular interactive 2D drawing library. \[[Examples](https://pencil.js.org/)]
   * 🎉 [Escher.js](https://github.com/tentone/escher.js) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-30 - Interactive 2D graphics canvas framework.
 * JavaScript: Game Framework
-  * 🎉 [Phaser](https://github.com/photonstorm/phaser) ⭐ 39,018 | 🐛 101 | 🌐 JavaScript | 📅 2026-02-13 - Fast 2D game framework. \[[Website](https://phaser.io)]
+  * 🎉 [Phaser](https://github.com/photonstorm/phaser) ⭐ 39,026 | 🐛 101 | 🌐 JavaScript | 📅 2026-02-13 - Fast 2D game framework. \[[Website](https://phaser.io)]
   * 🎉 [WhitestormJS](https://github.com/WhitestormJS/whs.js) ⭐ 6,285 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - Framework for 3D apps / games, built on *Three.js*.
   * 🎉 [Galacean](https://github.com/galacean/engine) ⭐ 5,696 | 🐛 264 | 🌐 TypeScript | 📅 2026-01-28 - Web/Mobile-first engine built on WebGL and glTF.
   * 🎉 [Oasis](https://github.com/ant-galaxy/oasis-engine) ⭐ 5,696 | 🐛 264 | 🌐 TypeScript | 📅 2026-01-28 - WebGL framework by *AntGroup*. 2D/3D, animation, physics.
   * 🎉 [Turbulenz](https://github.com/turbulenz/turbulenz_engine) ⭐ 4,889 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - Modular 2D/3D game framework for browsers, desktops and mobile.
-  * 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) ⭐ 4,025 | 🐛 13 | 🌐 JavaScript | 📅 2026-02-12 - Lightweight 2D framework with WebGL rendering.
+  * 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) ⭐ 4,026 | 🐛 13 | 🌐 JavaScript | 📅 2026-02-12 - Lightweight 2D framework with WebGL rendering.
   * 🎉 [Crafty](https://github.com/craftyjs/Crafty) ⭐ 3,566 | 🐛 68 | 🌐 JavaScript | 📅 2023-11-04 - Create 2D games in a structured way.
   * 🎉 [Kaboom](https://github.com/replit/kaboom) ⚠️ Archived - Simple 2D framework.
   * 🎉 [Excalibur](https://github.com/excaliburjs/Excalibur) ⭐ 2,217 | 🐛 66 | 🌐 TypeScript | 📅 2026-02-13 - Friendly TypeScript 2D game engine for the web.
   * 🎉 [Meep](https://github.com/Usnul/meep) ⚠️ Archived - ECS game framework.
 * JavaScript: Video
-  * 💸 [Remotion](https://github.com/remotion-dev/remotion) ⭐ 36,488 | 🐛 89 | 🌐 TypeScript | 📅 2026-02-13 - Create videos programmatically in React. \[[Website](https://www.remotion.dev/)]
+  * 💸 [Remotion](https://github.com/remotion-dev/remotion) ⭐ 36,614 | 🐛 89 | 🌐 TypeScript | 📅 2026-02-13 - Create videos programmatically in React. \[[Website](https://www.remotion.dev/)]
 * JavaScript: Graphics - Three.js - React
-  * 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 30,242 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-09 - React renderer for Three.js.
-  * 🎉 [drei](https://github.com/pmndrs/drei) ⭐ 9,471 | 🐛 52 | 🌐 JavaScript | 📅 2026-02-11 - Useful helpers for react-three-fiber.
+  * 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 30,247 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-09 - React renderer for Three.js.
+  * 🎉 [drei](https://github.com/pmndrs/drei) ⭐ 9,473 | 🐛 52 | 🌐 JavaScript | 📅 2026-02-11 - Useful helpers for react-three-fiber.
   * 🎉 [gltfjsx](https://github.com/pmndrs/gltfjsx) ⭐ 5,723 | 🐛 109 | 🌐 JavaScript | 📅 2024-11-04 - Turns GLTFs into JSX components.
 * JavaScript: Audio
   * 🎉 [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,169 | 🐛 413 | 🌐 JavaScript | 📅 2025-11-23 - Audio made easy and reliable across all platforms.
-  * 🎉 [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,705 | 🐛 61 | 🌐 TypeScript | 📅 2026-02-14 - WebAudio framework for creating interactive music in the browser.
-  * 🎉 [SoundJS](https://github.com/CreateJS/SoundJS) ⭐ 4,554 | 🐛 95 | 🌐 JavaScript | 📅 2021-03-27 - Simple API and powerful features, part of the *CreateJS* suite.
+  * 🎉 [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,707 | 🐛 61 | 🌐 TypeScript | 📅 2026-02-14 - WebAudio framework for creating interactive music in the browser.
+  * 🎉 [SoundJS](https://github.com/CreateJS/SoundJS) ⭐ 4,555 | 🐛 95 | 🌐 JavaScript | 📅 2021-03-27 - Simple API and powerful features, part of the *CreateJS* suite.
   * 🎉 [tuna](https://github.com/Theodeus/tuna) ⭐ 1,807 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-04 - Audio effects library for the WebAudio API.
-  * 🎉 [Waveform Playlist](https://github.com/naomiaro/waveform-playlist) ⭐ 1,599 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-14 - Multitrack web audio editor and player with canvas waveform preview.
+  * 🎉 [Waveform Playlist](https://github.com/naomiaro/waveform-playlist) ⭐ 1,600 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-14 - Multitrack web audio editor and player with canvas waveform preview.
   * 🎉 [PixiJS Sound](https://github.com/pixijs/sound) ⭐ 463 | 🐛 52 | 🌐 TypeScript | 📅 2024-09-27 - Audio library with filters, built on *PixiJS*. \[[Examples](https://pixijs.io/sound/examples/)]
-  * 🎉 [SpessaSynth](https://github.com/spessasus/SpessaSynth) ⭐ 304 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-14 - MIDI player and synthesizer.
+  * 🎉 [SpessaSynth](https://github.com/spessasus/SpessaSynth) ⭐ 304 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-15 - MIDI player and synthesizer.
   * 🎉 [Sonant-X](https://github.com/nicolas-van/sonant-x) ⭐ 246 | 🐛 2 | 🌐 JavaScript | 📅 2025-06-18 - Small JavaScript synthesizer library. \[[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
 * JavaScript: Visual Programming / Nodes
-  * 🎉 [Node-RED](https://github.com/node-red/node-red) ⭐ 22,789 | 🐛 493 | 🌐 JavaScript | 📅 2026-02-11 - Low-code programming for event-driven applications.
-  * 🎉 [Rete.js](https://github.com/retejs/rete) ⭐ 11,852 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-21 - Framework for visual programming and node editors. \[[Demo](https://rete.js.org/#/examples/basic)]
-  * 🎉 [Litegraph.js](https://github.com/jagenjo/litegraph.js) ⭐ 7,864 | 🐛 150 | 🌐 JavaScript | 📅 2024-08-01 - Create graphs in the browser similar to Unreal Blueprints. \[[Demo](https://tamats.com/projects/litegraph/editor/)]
-  * 🎉 [Drawflow](https://github.com/jerosoler/Drawflow) ⭐ 5,953 | 🐛 272 | 🌐 JavaScript | 📅 2024-10-19 - Simple JavaScript flow library. \[[Demo](https://jerosoler.github.io/Drawflow/)]
+  * 🎉 [Node-RED](https://github.com/node-red/node-red) ⭐ 22,790 | 🐛 495 | 🌐 JavaScript | 📅 2026-02-11 - Low-code programming for event-driven applications.
+  * 🎉 [Rete.js](https://github.com/retejs/rete) ⭐ 11,855 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-21 - Framework for visual programming and node editors. \[[Demo](https://rete.js.org/#/examples/basic)]
+  * 🎉 [Litegraph.js](https://github.com/jagenjo/litegraph.js) ⭐ 7,865 | 🐛 150 | 🌐 JavaScript | 📅 2024-08-01 - Create graphs in the browser similar to Unreal Blueprints. \[[Demo](https://tamats.com/projects/litegraph/editor/)]
+  * 🎉 [Drawflow](https://github.com/jerosoler/Drawflow) ⭐ 5,956 | 🐛 272 | 🌐 JavaScript | 📅 2024-10-19 - Simple JavaScript flow library. \[[Demo](https://jerosoler.github.io/Drawflow/)]
   * 🎉 [Butterfly](https://github.com/alibaba/butterfly) ⭐ 4,653 | 🐛 171 | 🌐 JavaScript | 📅 2024-05-20 - Diagramming library concentrated on flow and field layout by *Alibaba*.
   * 🎉 [Nodl](https://github.com/emilwidlund/nodl) ⭐ 1,750 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-01 - Framework for computational node graphs.
   * 🎉 [Flow](https://github.com/sunag/flow) ⭐ 108 | 🐛 2 | 🌐 HTML | 📅 2025-12-05 - Node-graph library.
 * JavaScript: Game Engine w/Editor
-  * 🎉 [GDevelop](https://github.com/4ian/GDevelop) ⭐ 20,438 | 🐛 549 | 🌐 JavaScript | 📅 2026-02-13 - Full-featured 2D game development. \[[Website](https://gdevelop.io/)]
-  * 🎉 [A-Frame](https://github.com/aframevr/aframe/) ⭐ 17,473 | 🐛 337 | 🌐 JavaScript | 📅 2025-12-23 - Web framework for building VR experiences. \[[Website](https://aframe.io)]
-  * 🎉 [Cocos Creator](https://github.com/cocos-creator/engine) ⭐ 9,409 | 🐛 1,002 | 🌐 C++ | 📅 2026-02-11 - Cross-Platform 2D/3D game creation. \[[Website](https://www.cocos.com/en/creator)]
-  * 🎉 [melonJS](https://github.com/melonjs/melonJS) ⭐ 6,229 | 🐛 30 | 🌐 JavaScript | 📅 2025-07-01 - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). \[[Examples](https://melonjs.github.io/examples/) | [Website](https://melonjs.org)]
+  * 🎉 [GDevelop](https://github.com/4ian/GDevelop) ⭐ 20,476 | 🐛 552 | 🌐 JavaScript | 📅 2026-02-15 - Full-featured 2D game development. \[[Website](https://gdevelop.io/)]
+  * 🎉 [A-Frame](https://github.com/aframevr/aframe/) ⭐ 17,474 | 🐛 337 | 🌐 JavaScript | 📅 2025-12-23 - Web framework for building VR experiences. \[[Website](https://aframe.io)]
+  * 🎉 [Cocos Creator](https://github.com/cocos-creator/engine) ⭐ 9,410 | 🐛 1,002 | 🌐 C++ | 📅 2026-02-11 - Cross-Platform 2D/3D game creation. \[[Website](https://www.cocos.com/en/creator)]
+  * 🎉 [melonJS](https://github.com/melonjs/melonJS) ⭐ 6,229 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-15 - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). \[[Examples](https://melonjs.github.io/examples/) | [Website](https://melonjs.org)]
   * 🎉 [Egret](https://github.com/egret-labs/egret-core) ⭐ 4,013 | 🐛 54 | 🌐 JavaScript | 📅 2022-07-20 - Mobile game engine. \[[Editor](https://github.com/egret-labs/egret-ui-editor-opensource) ⭐ 151 | 🐛 42 | 🌐 JavaScript | 📅 2023-01-06]
-  * 🎉 [Impact](https://github.com/phoboslab/impact) ⭐ 2,089 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-07 - Game engine for desktop and mobile browsers. \[[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
+  * 🎉 [Impact](https://github.com/phoboslab/impact) ⭐ 2,090 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-07 - Game engine for desktop and mobile browsers. \[[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
   * 🎉 [microStudio](https://github.com/pmgl/microstudio/) ⭐ 1,131 | 🐛 83 | 🌐 JavaScript | 📅 2026-02-02 - Online game engine. Learn and practice programming.
   * 🎉 [QICI Engine](https://github.com/qiciengine/qiciengine) ⭐ 896 | 🐛 7 | 📅 2016-08-08 - Toolset for making games.
   * 🎉 [Isogenic](https://github.com/irrelon/ige) ⭐ 569 | 🐛 18 | 🌐 JavaScript | 📅 2026-01-27 - Engine with advanced multiplayer, based on *Valve*'s multiplayer system.
-  * 🎉 [Pixelbox.js](https://github.com/cstoquer/pixelbox) ⭐ 484 | 🐛 14 | 🌐 JavaScript | 📅 2024-03-01 - Sandbox to fast-prototype 2D tile-based games. \[[Download](https://pixwlk.itch.io/pixelbox)]
+  * 🎉 [Pixelbox.js](https://github.com/cstoquer/pixelbox) ⭐ 485 | 🐛 14 | 🌐 JavaScript | 📅 2024-03-01 - Sandbox to fast-prototype 2D tile-based games. \[[Download](https://pixwlk.itch.io/pixelbox)]
   * 🎉 [Taro](https://github.com/moddio/taro) ⚠️ Archived - Multiplayer engine with *Box2D* physics, aka *Moddio*. \[[Website](https://www.modd.io)]
-  * 🎉 [ct.js](https://github.com/ct-js/ct-js) ⭐ 256 | 🐛 34 | 🌐 TypeScript | 📅 2026-02-13 - Desktop 2D game engine, built on *PixiJS*.
+  * 🎉 [ct.js](https://github.com/ct-js/ct-js) ⭐ 258 | 🐛 34 | 🌐 TypeScript | 📅 2026-02-13 - Desktop 2D game engine, built on *PixiJS*.
   * 🎉 [Superpowers](https://github.com/superpowers) - Both 2D & 3D game making for indies. \[[Website](http://superpowers-html5.com/index.en.html)]
 * JavaScript: Physics
   * 🎉 [Matter.js](https://github.com/liabru/matter-js) ⭐ 18,045 | 🐛 279 | 🌐 JavaScript | 📅 2024-08-17 - Featured 2D physics engine for the web. \[[Demos](https://brm.io/matter-js/)]
@@ -921,38 +921,38 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Cannon-es](https://github.com/pmndrs/cannon-es) ⭐ 2,004 | 🐛 57 | 🌐 TypeScript | 📅 2024-01-06 - Maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js) ⭐ 4,958 | 🐛 213 | 🌐 JavaScript | 📅 2023-08-04 3D physics engine. \[[Demos](https://pmndrs.github.io/cannon-es/)]
   * 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) ⭐ 1,379 | 🐛 66 | 🌐 C | 📅 2020-07-09 - Box2D to ported as WebAssembly.
   * 🎉 [Verly.js](https://github.com/anuraghazra/Verly.js) ⭐ 699 | 🐛 11 | 🌐 JavaScript | 📅 2025-02-19 - Easy to integrate verlet physics engine. \[[Demos](https://anuraghazra.dev/Verly.js/)]
-  * 🎉 [JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) ⭐ 497 | 🐛 2 | 🌐 C++ | 📅 2026-01-01 - Port of *Jolt Physics* to JavaScript (as WebAssembly). \[[Demos](https://jrouwe.github.io/JoltPhysics.js/)]
+  * 🎉 [JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) ⭐ 497 | 🐛 3 | 🌐 C++ | 📅 2026-02-14 - Port of *Jolt Physics* to JavaScript (as WebAssembly). \[[Demos](https://jrouwe.github.io/JoltPhysics.js/)]
   * 🎉 [Particulate.js](https://github.com/jpweeks/particulate-js) ⭐ 345 | 🐛 0 | 🌐 JavaScript | 📅 2019-10-17 - Particle physics library designed to be simple, fast and stable.
   * 🎉 [Goblin Physics](https://github.com/chandlerprall/GoblinPhysics) ⭐ 149 | 🐛 29 | 🌐 JavaScript | 📅 2016-10-18 - 3D physics engine written from the ground up in JavaScript. \[[Demos](http://www.goblinphysics.com/)]
   * 🎉 [Rapier](https://rapier.rs/docs/user_guides/javascript/getting_started_js) - Rust 2D/3D physics libary focused on performance, ported as WebAssembly.
 * JavaScript: Color
-  * 🎉 [Chroma.js](https://github.com/gka/chroma.js) ⭐ 10,539 | 🐛 63 | 🌐 JavaScript | 📅 2026-02-02 - Library for all kinds of color manipulations.
+  * 🎉 [Chroma.js](https://github.com/gka/chroma.js) ⭐ 10,540 | 🐛 63 | 🌐 JavaScript | 📅 2026-02-02 - Library for all kinds of color manipulations.
 * JavaScript: Input
   * 🎉 [use-gesture](https://github.com/pmndrs/use-gesture) ⭐ 9,579 | 🐛 49 | 🌐 TypeScript | 📅 2024-07-15 - Utility for mouse / touch gestures in React and JavaScript.
   * ❓ [Mesekai](https://github.com/Neleac/Mesekai) ⭐ 91 | 🐛 2 | 🌐 JavaScript | 📅 2025-01-14 - Real-time motion tracking.
   * 🎉 [Joycon.js](https://github.com/barhatsor/joycon.js) ⭐ 90 | 🐛 4 | 🌐 HTML | 📅 2024-08-31 - JavaScript controller functionality.
   * 🔒 [WebAR.rocks.faceDepth](https://github.com/WebAR-rocks/WebAR.rocks.faceDepth) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-13 - Insert your face from your camera into a 3D scene.
 * JavaScript: Docking
-  * 🎉 [Golden Layout](https://github.com/golden-layout/golden-layout) ⭐ 6,642 | 🐛 108 | 🌐 JavaScript | 📅 2026-01-25 - Multi-window layout manager for web apps.
+  * 🎉 [Golden Layout](https://github.com/golden-layout/golden-layout) ⭐ 6,643 | 🐛 108 | 🌐 JavaScript | 📅 2026-01-25 - Multi-window layout manager for web apps.
   * 🎉 [React Mosaic](https://github.com/nomcopter/react-mosaic) ⭐ 4,725 | 🐛 35 | 🌐 TypeScript | 📅 2024-12-20 - React tiling window manager.
-  * 🎉 [FlexLayout](https://github.com/caplin/FlexLayout) ⭐ 1,246 | 🐛 181 | 🌐 TypeScript | 📅 2026-01-14 - Multi-tab layout manager.
+  * 🎉 [FlexLayout](https://github.com/caplin/FlexLayout) ⭐ 1,247 | 🐛 181 | 🌐 TypeScript | 📅 2026-01-14 - Multi-tab layout manager.
   * 🎉 [PhosphorJS](https://github.com/phosphorjs/phosphor) ⚠️ Archived - High-performance, pluggable, desktop-style web apps.
-  * 🎉 [RC-Dock](https://github.com/ticlo/rc-dock) ⭐ 799 | 🐛 52 | 🌐 TypeScript | 📅 2025-10-21 - Dock layout component for React.
+  * 🎉 [RC-Dock](https://github.com/ticlo/rc-dock) ⭐ 800 | 🐛 52 | 🌐 TypeScript | 📅 2025-10-21 - Dock layout component for React.
   * 🎉 [wcDocker](https://github.com/WebCabin/wcDocker) ⭐ 148 | 🐛 42 | 🌐 CSS | 📅 2022-01-10 - Window layout system with a responsive and interactive design.
   * 🎉 [Dock Spawn TS](https://github.com/node-projects/dock-spawn-ts) ⭐ 144 | 🐛 18 | 🌐 JavaScript | 📅 2026-01-02 - Maintained, TypeScript version of [Dock Spawn](https://github.com/coderespawn/dock-spawn) ⭐ 259 | 🐛 22 | 🌐 JavaScript | 📅 2015-04-19, a JavaScript docking framework.
 * JavaScript: File Formats
   * 🎉 [JSMpeg](https://github.com/phoboslab/jsmpeg) ⭐ 6,493 | 🐛 191 | 🌐 JavaScript | 📅 2022-09-20 - MPEG1 Video Decoder in JavaScript.
 * JavaScript: Game Engines
-  * 📚 [JavaScript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) ⭐ 3,882 | 🐛 2 | 🌐 JavaScript | 📅 2015-04-21 - JavaScript / HTML5 game engines and frameworks.
+  * 📚 [JavaScript Wiki: Game Engines](https://github.com/bebraw/jswiki/wiki/Game-Engines) ⭐ 3,881 | 🐛 2 | 🌐 JavaScript | 📅 2015-04-21 - JavaScript / HTML5 game engines and frameworks.
   * 📚 [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection of JavaScript / HTML5 game engines.
 * JavaScript: Graphics - Three.js - Addon
-  * 🎉 [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ⭐ 3,217 | 🐛 77 | 🌐 JavaScript | 📅 2026-02-04 - Speed up raycasting and enable spatial queries on Meshes.
-  * 🎉 [Troika JS - Derived Material](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) ⭐ 1,907 | 🐛 90 | 🌐 JavaScript | 📅 2025-12-26 - Extend existing Three.js materials. \[[Docs](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/)]
+  * 🎉 [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ⭐ 3,218 | 🐛 77 | 🌐 JavaScript | 📅 2026-02-04 - Speed up raycasting and enable spatial queries on Meshes.
+  * 🎉 [Troika JS - Derived Material](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) ⭐ 1,909 | 🐛 90 | 🌐 JavaScript | 📅 2025-12-26 - Extend existing Three.js materials. \[[Docs](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/)]
   * 🎉 [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) ⭐ 1,462 | 🐛 73 | 🌐 JavaScript | 📅 2023-12-03 - VR user interfaces for Three.js.
   * 🎉 [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial) ⭐ 1,260 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-12 - Extend Three.js materials with your own shaders.
-  * 🎉 [three-nebula](https://github.com/creativelifeform/three-nebula) ⭐ 1,153 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-06 - WebGL particle system for Three.js. \[[Examples](https://three-nebula.org/examples/custom-renderer)]
+  * 🎉 [three-nebula](https://github.com/creativelifeform/three-nebula) ⭐ 1,154 | 🐛 51 | 🌐 JavaScript | 📅 2023-03-06 - WebGL particle system for Three.js. \[[Examples](https://three-nebula.org/examples/custom-renderer)]
   * 🎉 [Lamina](https://github.com/pmndrs/lamina) ⚠️ Archived - Extensible, layered shader material for Three.js.
-  * 🎉 [three-projected-material](https://github.com/marcofugaro/three-projected-material) ⭐ 711 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-04 - Texture projection in Three.js.
+  * 🎉 [three-projected-material](https://github.com/marcofugaro/three-projected-material) ⭐ 712 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-04 - Texture projection in Three.js.
   * ❓ [screen-space-reflections](https://github.com/0beqz/screen-space-reflections) ⚠️ Archived - Screen space reflections in Three.js.
   * 🎉 [three.ik](https://github.com/jsantell/THREE.IK) ⭐ 559 | 🐛 28 | 🌐 JavaScript | 📅 2023-03-15 - Inverse kinematics for Three.js.
   * 🎉 [three-billboard-reflection](https://github.com/0beqz/three-billboard-reflection) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-04-20 - Performant plane reflections in Three.js.
@@ -966,7 +966,7 @@ This includes things typically not found in low-level game engines, app / game f
   * 🎉 [Poly-Decomp.js](https://github.com/schteppe/poly-decomp.js) ⭐ 459 | 🐛 10 | 🌐 JavaScript | 📅 2023-08-08 - Decompose 2D polygons into convex pieces.
   * 🎉 [Convexhull.js](https://github.com/indy256/convexhull-js) ⭐ 27 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-11 - High-performance JavaScript 2D convex hull library.
 * JavaScript: Graphics - Three.js
-  * 🎉 [Sketch Three.js](https://github.com/ykob/sketch-threejs) ⭐ 2,512 | 🐛 14 | 🌐 JavaScript | 📅 2025-04-29 - Interactive sketches made with Three.js.
+  * 🎉 [Sketch Three.js](https://github.com/ykob/sketch-threejs) ⭐ 2,514 | 🐛 14 | 🌐 JavaScript | 📅 2025-04-29 - Interactive sketches made with Three.js.
   * 🎉 [Sketchbook](https://github.com/swift502/Sketchbook) ⚠️ Archived - 3D playground built on Three.js and Cannon.js.
   * 📚 [THREEx](https://github.com/jeromeetienne/threex) ⭐ 333 | 🐛 30 | 🌐 HTML | 📅 2017-04-15 - Nice collection of open source game extensions.
   * 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web apps using Three.js.
@@ -977,12 +977,12 @@ This includes things typically not found in low-level game engines, app / game f
   * 💰 [Three.js Journey](https://threejs-journey.com/) - Course teaching WebGL from beginner to advanced.
   * 📚 [Three.js Manual](https://threejs.org/manual/#en/fundamentals) - Fantastic articles and explanations. Formerly *ThreeJsFundamentals*.
 * JavaScript: Entity Component System
-  * 🔒 [bitECS](https://github.com/NateTheGreatt/bitECS) ⭐ 1,308 | 🐛 11 | 🌐 TypeScript | 📅 2025-12-06 - Functional, minimal, data-oriented, ultra-high performance ECS library.
+  * 🔒 [bitECS](https://github.com/NateTheGreatt/bitECS) ⭐ 1,310 | 🐛 11 | 🌐 TypeScript | 📅 2025-12-06 - Functional, minimal, data-oriented, ultra-high performance ECS library.
   * 🎉 [Ecsy](https://github.com/ecsyjs/ecsy) ⚠️ Archived - Experimental ECS aiming to be lightweight, easy to use.
-  * 🎉 [Miniplex](https://github.com/hmans/miniplex) ⭐ 982 | 🐛 25 | 🌐 TypeScript | 📅 2023-11-09 - Entity management system for games.
+  * 🎉 [Miniplex](https://github.com/hmans/miniplex) ⭐ 983 | 🐛 25 | 🌐 TypeScript | 📅 2023-11-09 - Entity management system for games.
   * 🎉 [Becsy](https://github.com/LastOliveGames/becsy) ⭐ 284 | 🐛 5 | 🌐 TypeScript | 📅 2025-10-02 - Multithreaded ECS for TypeScript and JavaScript.
 * JavaScript: Timeline
-  * 🎉 [Frame.js](https://github.com/mrdoob/frame.js/) ⭐ 1,150 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-18 - JavaScript sequence editor.
+  * 🎉 [Frame.js](https://github.com/mrdoob/frame.js/) ⭐ 1,151 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-18 - JavaScript sequence editor.
   * 🎉 [Neo](https://github.com/lo-th/neo) ⭐ 302 | 🐛 3 | 🌐 JavaScript | 📅 2022-03-17 - Timeline for JavaScript. \[[Demo](http://lo-th.github.io/neo/)]
 * 📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
 * 🌎 [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network, excellent learning resource.
@@ -993,18 +993,18 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Kotlin
 
-* 🌎 [Kotlin](https://kotlinlang.org/) - General-purpose language, interoperates with Java. \[[GitHub](https://github.com/JetBrains/kotlin) ⭐ 52,301 | 🐛 215 | 🌐 Kotlin | 📅 2026-02-14]
-* 📚 [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,345 | 🐛 25 | 🌐 Kotlin | 📅 2026-02-13 - List of awesome Kotlin related stuff.
+* 🌎 [Kotlin](https://kotlinlang.org/) - General-purpose language, interoperates with Java. \[[GitHub](https://github.com/JetBrains/kotlin) ⭐ 52,309 | 🐛 216 | 🌐 Kotlin | 📅 2026-02-15]
+* 📚 [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,346 | 🐛 26 | 🌐 Kotlin | 📅 2026-02-14 - List of awesome Kotlin related stuff.
 * Kotlin: Game Framework
   * 🎉 [FXGL](https://github.com/AlmasB/FXGL) ⭐ 4,756 | 🐛 150 | 🌐 Kotlin | 📅 2026-02-12 - Game library for 2D, experimental 3D.
   * 🎉 [KTX](https://github.com/libktx/ktx) ⭐ 1,441 | 🐛 13 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions for the *libGDX* game framework.
   * 🎉 [Kool](https://github.com/fabmax/kool) ⭐ 521 | 🐛 28 | 🌐 Kotlin | 📅 2026-02-11 - Multi-platform 3D Vulkan / OpenGL graphics engine. \[[Examples](https://fabmax.github.io/kool/kool-js/)]
 * Kotlin: Game Engine w/Editor
-  * 🎉 [KorGE](https://github.com/korlibs/korge) ⭐ 2,955 | 🐛 237 | 🌐 Kotlin | 📅 2026-02-13 - Multi-platform 2D game engine for Kotlin. \[[Website](https://korge.org/)]
+  * 🎉 [KorGE](https://github.com/korlibs/korge) ⭐ 2,956 | 🐛 237 | 🌐 Kotlin | 📅 2026-02-13 - Multi-platform 2D game engine for Kotlin. \[[Website](https://korge.org/)]
 
 ### Pascal
 
-* 📚 [Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) ⭐ 2,023 | 🐛 10 | 🌐 Pascal | 📅 2025-12-29 - Curated list of Delphi / Pascal resources.
+* 📚 [Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) ⭐ 2,024 | 🐛 10 | 🌐 Pascal | 📅 2025-12-29 - Curated list of Delphi / Pascal resources.
 * Pascal: Game Engine w/Editor
   * 🎉 [Castle](https://github.com/castle-engine/castle-engine) ⭐ 1,136 | 🐛 85 | 🌐 Pascal | 📅 2026-02-12 - Cross-platform 2D/3D game engine and editor. \[[Website](https://castle-engine.io/)]
 * Pascal: Game Framework
@@ -1017,26 +1017,26 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Python
 
-* 📚 [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 282,730 | 🐛 18 | 🌐 Python | 📅 2026-02-10 - List of awesome Python frameworks, libraries, software and more.
+* 📚 [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 282,874 | 🐛 18 | 🌐 Python | 📅 2026-02-14 - List of awesome Python frameworks, libraries, software and more.
 * Python: Gui
-  * 🎉 [Kivy](https://github.com/kivy/kivy) ⭐ 18,846 | 🐛 862 | 🌐 Python | 📅 2026-02-13 - Cross-platform gui framework. \[[Website](https://kivy.org/)]
+  * 🎉 [Kivy](https://github.com/kivy/kivy) ⭐ 18,848 | 🐛 859 | 🌐 Python | 📅 2026-02-14 - Cross-platform gui framework. \[[Website](https://kivy.org/)]
 * Python: Game Framework
-  * 🔒 [Pygame](https://github.com/pygame/pygame) ⭐ 8,606 | 🐛 691 | 🌐 C | 📅 2025-11-01 - Game & multimedia app framework, built on *SDL*.
-  * 🎉 [Panda3D](https://github.com/panda3d/panda3d) ⭐ 5,041 | 🐛 340 | 🌐 C++ | 📅 2026-02-12 - Powerful, mature game engine, developed by Disney and CMU. \[[Website](https://www.panda3d.org)]
-  * 🎉 [Arcade](https://github.com/pythonarcade/arcade) ⭐ 1,973 | 🐛 117 | 🌐 Python | 📅 2026-02-12 - Easy to use library for creating 2D arcade games.
+  * 🔒 [Pygame](https://github.com/pygame/pygame) ⭐ 8,606 | 🐛 692 | 🌐 C | 📅 2025-11-01 - Game & multimedia app framework, built on *SDL*.
+  * 🎉 [Panda3D](https://github.com/panda3d/panda3d) ⭐ 5,041 | 🐛 341 | 🌐 C++ | 📅 2026-02-12 - Powerful, mature game engine, developed by Disney and CMU. \[[Website](https://www.panda3d.org)]
+  * 🎉 [Arcade](https://github.com/pythonarcade/arcade) ⭐ 1,973 | 🐛 116 | 🌐 Python | 📅 2026-02-14 - Easy to use library for creating 2D arcade games.
   * 🎉 [Pygcurse](https://github.com/asweigart/pygcurse) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2023-09-05 - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) library for text adventures / roguelikes. \[[Website](http://inventwithpython.com/pygcurse/)]
 * Python: Cross-Platform
-  * 🎉 [Brython](https://github.com/brython-dev/brython) ⭐ 6,578 | 🐛 84 | 🌐 Python | 📅 2026-02-13 - Python 3 running in the browser.
+  * 🎉 [Brython](https://github.com/brython-dev/brython) ⭐ 6,579 | 🐛 84 | 🌐 Python | 📅 2026-02-13 - Python 3 running in the browser.
   * 💸 [Anvil](https://anvil.works) - Full stack web apps with nothing but Python.
 * Python: App Framework
-  * 🎉 [Pyglet](https://github.com/pyglet/pyglet) ⭐ 2,153 | 🐛 96 | 🌐 Python | 📅 2026-02-14 - Windowing and multimedia library intended for game development.
+  * 🎉 [Pyglet](https://github.com/pyglet/pyglet) ⭐ 2,155 | 🐛 95 | 🌐 Python | 📅 2026-02-14 - Windowing and multimedia library intended for game development.
 * 🌎 [Python.org](https://www.python.org) - Programming language that lets you work quickly. \[[Docs](https://www.python.org/doc/)]
 
 ### Ruby
 
 * Ruby: Framework
-  * 🎉 [Ruby on Rails](https://github.com/rails/rails) ⭐ 58,196 | 🐛 1,468 | 🌐 Ruby | 📅 2026-02-14 - Web app framework. \[[Website](https://rubyonrails.org)]
-* 🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub](https://github.com/ruby/ruby) ⭐ 23,309 | 🐛 553 | 🌐 Ruby | 📅 2026-02-14]
+  * 🎉 [Ruby on Rails](https://github.com/rails/rails) ⭐ 58,197 | 🐛 1,472 | 🌐 Ruby | 📅 2026-02-14 - Web app framework. \[[Website](https://rubyonrails.org)]
+* 🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub](https://github.com/ruby/ruby) ⭐ 23,382 | 🐛 554 | 🌐 Ruby | 📅 2026-02-14]
 * 📚 [Awesome Ruby](https://github.com/markets/awesome-ruby) ⭐ 14,031 | 🐛 7 | 📅 2026-01-13 - Collection of awesome Ruby libraries, tools, frameworks and software.
 * Ruby: Gui
   * 🎉 [Shoes](https://github.com/shoes/shoes4) ⭐ 1,612 | 🐛 98 | 🌐 Ruby | 📅 2023-11-17 - Cross-platform gui library. \[[Website](http://shoesrb.com/)]
@@ -1048,31 +1048,31 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Rust
 
-* 📚 [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 55,608 | 🐛 12 | 🌐 Rust | 📅 2026-02-13 - Curated list of Rust code and resources.
+* 📚 [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 55,627 | 🐛 12 | 🌐 Rust | 📅 2026-02-14 - Curated list of Rust code and resources.
 * Rust: Game Framework
-  * 🎉 [Bevy](https://github.com/bevyengine/bevy) ⭐ 44,619 | 🐛 3,236 | 🌐 Rust | 📅 2026-02-13 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
+  * 🎉 [Bevy](https://github.com/bevyengine/bevy) ⭐ 44,628 | 🐛 3,244 | 🌐 Rust | 📅 2026-02-14 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
   * 🎉 [Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived - Data-driven 2D/3D game engine aiming to be fast and configurable.
-  * 🎉 [Macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,284 | 🐛 319 | 🌐 Rust | 📅 2026-02-03 - Easy to use game library, heavily inspired by *RayLib*.
+  * 🎉 [Macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,287 | 🐛 319 | 🌐 Rust | 📅 2026-02-03 - Easy to use game library, heavily inspired by *RayLib*.
   * 🎉 [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,895 | 🐛 281 | 🌐 Rust | 📅 2025-01-07 - Multiplayer game engine.
 * Rust: Gui
-  * 🎉 [Dioxus](https://github.com/dioxuslabs/dioxus) ⭐ 34,672 | 🐛 639 | 🌐 Rust | 📅 2026-02-13 - Cross-platform, React-like gui library.
-  * 🎉 [egui](https://github.com/emilk/egui) ⭐ 28,078 | 🐛 1,068 | 🌐 Rust | 📅 2026-02-13 - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
-  * 🔒 [Slint](https://github.com/slint-ui/slint) ⭐ 21,742 | 🐛 825 | 🌐 Rust | 📅 2026-02-13 - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
+  * 🎉 [Dioxus](https://github.com/dioxuslabs/dioxus) ⭐ 34,681 | 🐛 643 | 🌐 Rust | 📅 2026-02-13 - Cross-platform, React-like gui library.
+  * 🎉 [egui](https://github.com/emilk/egui) ⭐ 28,086 | 🐛 1,075 | 🌐 Rust | 📅 2026-02-13 - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
+  * 🔒 [Slint](https://github.com/slint-ui/slint) ⭐ 21,748 | 🐛 829 | 🌐 Rust | 📅 2026-02-14 - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
   * 🎉 [Druid](https://github.com/linebender/druid) ⭐ 9,719 | 🐛 302 | 🌐 Rust | 📅 2026-02-05 - Data-first gui design toolkit.
-  * 🔒 [Azul](https://github.com/fschutt/azul) ⭐ 6,088 | 🐛 20 | 🌐 Rust | 📅 2026-02-14 - Desktop gui framework.
+  * 🔒 [Azul](https://github.com/fschutt/azul) ⭐ 6,089 | 🐛 20 | 🌐 Rust | 📅 2026-02-14 - Desktop gui framework.
 * Rust: Game Engine w/Editor
-  * 🎉 [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 8,876 | 🐛 60 | 🌐 Rust | 📅 2026-02-13 - 2D/3D game engine with editor. Formerly *Rg3d*. \[[Website](https://fyrox.rs/)]
+  * 🎉 [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 8,875 | 🐛 61 | 🌐 Rust | 📅 2026-02-14 - 2D/3D game engine with editor. Formerly *Rg3d*. \[[Website](https://fyrox.rs/)]
 * Rust: App Framework
-  * 🎉 [Makepad](https://github.com/makepad/makepad) ⭐ 6,176 | 🐛 118 | 🌐 Rust | 📅 2026-02-13 - Software development platform and native-rendering gui framework. \[[Editor](https://makepad.dev/)]
+  * 🎉 [Makepad](https://github.com/makepad/makepad) ⭐ 6,177 | 🐛 118 | 🌐 Rust | 📅 2026-02-14 - Software development platform and native-rendering gui framework. \[[Editor](https://makepad.dev/)]
   * 🎉 [Tao](https://github.com/tauri-apps/tao) ⭐ 2,011 | 🐛 99 | 🌐 Rust | 📅 2026-02-11 - Cross-platform windowing. \[[Docs](https://docs.rs/tao/latest/tao/)]
 * Rust: Physics
-  * 🎉 [Rapier](https://github.com/dimforge/rapier) ⭐ 5,131 | 🐛 170 | 🌐 Rust | 📅 2026-01-09 - 2D/3D physics engines focused on performance. \[[Docs](https://rapier.rs)]
+  * 🎉 [Rapier](https://github.com/dimforge/rapier) ⭐ 5,129 | 🐛 170 | 🌐 Rust | 📅 2026-01-09 - 2D/3D physics engines focused on performance. \[[Docs](https://rapier.rs)]
 * Rust: Graphics - 3D
-  * 🎉 [Vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,013 | 🐛 91 | 🌐 Rust | 📅 2026-02-05 - Safe and rich wrapper around the Vulkan API.
+  * 🎉 [Vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,015 | 🐛 91 | 🌐 Rust | 📅 2026-02-05 - Safe and rich wrapper around the Vulkan API.
   * 🎉 [Glium](https://github.com/glium/glium) ⭐ 3,608 | 🐛 348 | 🌐 Rust | 📅 2025-08-19 - Safe wrapper arount the OpenGL API.
-  * 🎉 [Ash](https://github.com/ash-rs/ash) ⭐ 2,205 | 🐛 82 | 🌐 Rust | 📅 2025-12-29 - Vulkan bindgins for Rust.
+  * 🎉 [Ash](https://github.com/ash-rs/ash) ⭐ 2,206 | 🐛 82 | 🌐 Rust | 📅 2025-12-29 - Vulkan bindgins for Rust.
   * 🎉 [Miniquad](https://github.com/not-fl3/miniquad) ⭐ 1,947 | 🐛 138 | 🌐 Rust | 📅 2026-01-01 - Cross platform rendering.
-  * 🎉 [Kiss3D](https://github.com/sebcrozet/kiss3d) ⭐ 1,631 | 🐛 79 | 🌐 Rust | 📅 2026-01-21 - Keep it simple, stupid 3D graphics engine.
+  * 🎉 [Kiss3D](https://github.com/sebcrozet/kiss3d) ⭐ 1,632 | 🐛 80 | 🌐 Rust | 📅 2026-02-14 - Keep it simple, stupid 3D graphics engine.
 * Rust: Audio
   * 🎉 [Kira](https://github.com/tesselode/kira) ⭐ 992 | 🐛 36 | 🌐 Rust | 📅 2026-01-04 - Create expressive audio for games.
 * 🌎 [Rust](https://www.rust-lang.org) - Empowering everyone to build quality software. \[[Docs](https://www.rust-lang.org/learn) | [GitHub](https://github.com/rust-lang)]
@@ -1080,15 +1080,15 @@ This includes things typically not found in low-level game engines, app / game f
 ### Zig
 
 * Zig: Game Engine w/Editor
-  * 🎉 [Mach](https://github.com/hexops/mach) ⭐ 4,588 | 🐛 174 | 🌐 Zig | 📅 2025-11-25 - Game engine & graphics toolkit. \[[Examples](https://machengine.org/gpu/)]
-* 📚 [Ziglings](https://github.com/ratfactor/ziglings) ⭐ 4,540 | 🐛 7 | 📅 2024-08-21 - Learn the Zig programming language by fixing tiny broken programs.
+  * 🎉 [Mach](https://github.com/hexops/mach) ⭐ 4,592 | 🐛 174 | 🌐 Zig | 📅 2025-11-25 - Game engine & graphics toolkit. \[[Examples](https://machengine.org/gpu/)]
+* 📚 [Ziglings](https://github.com/ratfactor/ziglings) ⭐ 4,541 | 🐛 7 | 📅 2024-08-21 - Learn the Zig programming language by fixing tiny broken programs.
 * Zig: Game Framework
-  * 🎉 [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) ⭐ 2,789 | 🐛 31 | 🌐 Zig | 📅 2025-11-22 - Sample apps and libraries using DirectX 12.
+  * 🎉 [Zig-Gamedev Project](https://github.com/michal-z/zig-gamedev) ⭐ 2,790 | 🐛 31 | 🌐 Zig | 📅 2025-11-22 - Sample apps and libraries using DirectX 12.
 * Zig: Scripting
   * 🎉 [Cyber](https://github.com/fubark/cyber) ⭐ 1,409 | 🐛 35 | 🌐 Zig | 📅 2025-12-21 - Fast, efficient, and concurrent scripting language.
 * 📚 [Awesome Zig](https://github.com/nrdmn/awesome-zig) ⭐ 1,341 | 🐛 28 | 📅 2024-08-10 - Curated list of Zig code and resources.
 * Zig: Graphics - 2D
-  * 🔒 [Pixi](https://github.com/foxnne/pixi) ⭐ 1,248 | 🐛 12 | 🌐 Zig | 📅 2026-02-14 - Pixel art editor.
+  * 🔒 [Pixi](https://github.com/foxnne/pixi) ⭐ 1,247 | 🐛 12 | 🌐 Zig | 📅 2026-02-14 - Pixel art editor.
   * 🎉 [Mini Pixel](https://github.com/fabioarnold/MiniPixel) ⭐ 192 | 🐛 9 | 🌐 Zig | 📅 2024-01-16 - Tiny pixel art editor. \[[Download](https://fabioarnold.itch.io/mini-pixel)]
 * Zig: File System
   * 🎉 [Known Folders](https://github.com/ziglibs/known-folders) ⭐ 289 | 🐛 2 | 🌐 Zig | 📅 2026-02-08 - Provides access to well-known folders across several operating systems.
@@ -1109,16 +1109,16 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### C
 
-* 🔒 [Doom](https://github.com/id-Software/DOOM) ⭐ 18,052 | 🐛 12 | 🌐 C++ | 📅 2024-05-24 - The original 1993 3D masterpiece by *id Software*.
+* 🔒 [Doom](https://github.com/id-Software/DOOM) ⭐ 18,056 | 🐛 12 | 🌐 C++ | 📅 2024-05-24 - The original 1993 3D masterpiece by *id Software*.
 * 🔒 [Gish](https://github.com/blinry/gish) ⭐ 343 | 🐛 8 | 🌐 C | 📅 2017-01-12 - Open Source version of the award-winning physics platformer. \[[Steam](https://store.steampowered.com/app/9500/Gish/)]
 * 💸 [Handmade Hero](https://handmadehero.org/) - Videos on making a game from start to finish, source code for $15.
 
 ### C++
 
-* 🎉 [OpenLara](https://github.com/XProger/OpenLara) ⭐ 4,949 | 🐛 171 | 🌐 C | 📅 2025-11-24 - Classic Tomb Raider open source engine. \[[Play](http://xproger.info/projects/OpenLara/)]
+* 🎉 [OpenLara](https://github.com/XProger/OpenLara) ⭐ 4,951 | 🐛 171 | 🌐 C | 📅 2025-11-24 - Classic Tomb Raider open source engine. \[[Play](http://xproger.info/projects/OpenLara/)]
 * 🔒 [Doom 3](https://github.com/id-Software/DOOM-3) ⭐ 3,477 | 🐛 0 | 🌐 C++ | 📅 2015-09-03 - Doom 3 GPL source release.
-* 🔒 [zDoom](https://github.com/ZDoom/gzdoom) ⭐ 3,012 | 🐛 182 | 🌐 C++ | 📅 2025-11-17 - Modern, feature centric port for all Doom engine games.
-* 🔒 [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,771 | 🐛 496 | 🌐 C++ | 📅 2026-02-12 - Classic roguelike adventure. \[[Play](https://crawl.develz.org/)]
+* 🔒 [zDoom](https://github.com/ZDoom/gzdoom) ⭐ 3,013 | 🐛 182 | 🌐 C++ | 📅 2025-11-17 - Modern, feature centric port for all Doom engine games.
+* 🔒 [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,771 | 🐛 499 | 🌐 C++ | 📅 2026-02-12 - Classic roguelike adventure. \[[Play](https://crawl.develz.org/)]
 * 🎉 [TeeWorlds](https://github.com/teeworlds/teeworlds) ⭐ 2,585 | 🐛 355 | 🌐 C++ | 📅 2025-07-12 - Retro multiplayer shooter. \[[Website](https://teeworlds.com/)]
 * 🎉 [Etheral Legends](https://github.com/Soverance/EtherealLegends) ⭐ 242 | 🐛 0 | 🌐 C++ | 📅 2021-09-03 - Indie Action RPG built with *Unreal Engine 4*. \[[Steam](https://store.steampowered.com/app/428980/Ethereal_Legends/)]
 
@@ -1153,8 +1153,8 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Fluid / Smoke
 
-* 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). \[[Source](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) ⭐ 16,122 | 🐛 76 | 🌐 JavaScript | 📅 2024-11-12]
-* 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Cross-platform GPU fluid simulation. \[[Source](https://github.com/haxiomic/GPU-Fluid-Experiments) ⭐ 3,043 | 🐛 14 | 🌐 Haxe | 📅 2019-03-27]
+* 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). \[[Source](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) ⭐ 16,126 | 🐛 76 | 🌐 JavaScript | 📅 2024-11-12]
+* 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Cross-platform GPU fluid simulation. \[[Source](https://github.com/haxiomic/GPU-Fluid-Experiments) ⭐ 3,044 | 🐛 14 | 🌐 Haxe | 📅 2019-03-27]
 * 🔒 [Fluids-2D](https://github.com/mharrys/fluids-2d) ⭐ 467 | 🐛 2 | 🌐 JavaScript | 📅 2017-01-19 - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
 * 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems Chapter 38 - Fast, stable fluid simulation on the GPU.
 
@@ -1162,7 +1162,7 @@ This includes things typically not found in low-level game engines, app / game f
 
 * CSG (Constructive Solid Geometry)
   * 🎉 [csg.js](https://github.com/evanw/csg.js/) ⭐ 1,855 | 🐛 18 | 🌐 JavaScript | 📅 2019-10-05 - JavaScript library implementing CSG. \[[Examples](https://evanw.github.io/csg.js/)]
-  * 🎉 [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ⭐ 871 | 🐛 48 | 🌐 JavaScript | 📅 2026-02-11 - Fast and dynamic CSG on top of three-mesh-bvh.
+  * 🎉 [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) ⭐ 872 | 🐛 49 | 🌐 JavaScript | 📅 2026-02-15 - Fast and dynamic CSG on top of three-mesh-bvh.
   * 🎉 [three-csgmesh](https://github.com/manthrax/THREE-CSGMesh) ⭐ 495 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-05 - Conversion of the csg.js library for use with Three.js.
   * 📚 [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - Technique using boolean operations to combine primitive objects.
 * Meshes
@@ -1212,7 +1212,7 @@ This includes things typically not found in low-level game engines, app / game f
 ### Physics
 
 * Soft Body
-  * 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) - 3D soft body volumes using *Ammo.js* and *Three.js*. \[[Source](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) ⭐ 110,863 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-13]
+  * 🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) - 3D soft body volumes using *Ammo.js* and *Three.js*. \[[Source](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html) ⭐ 110,880 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-14]
   * 🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) - *Bullet 3D* physics cloth using the *Oryol* game framework. \[[Source](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc) ⭐ 83 | 🐛 7 | 🌐 C++ | 📅 2022-01-18]
   * 📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) - Using verlet physics to simulate 2D blobs.
 * Ropes / Chains
@@ -1247,15 +1247,15 @@ This includes things typically not found in low-level game engines, app / game f
 ### Shaders
 
 * Bloom
-  * 🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) - WebGL bloom postprocessing using *Three.js*. \[[Source](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) ⭐ 110,863 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-13]
+  * 🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) - WebGL bloom postprocessing using *Three.js*. \[[Source](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) ⭐ 110,880 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-14]
   * 📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Techniques used for bloom lighting, presented in OpenGL.
   * 📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) - How to add support for a bloom effect.
 * Pixelation
-  * 🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) - WebGL pixelation postprocessing using *Three.js*. \[[Source](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) ⭐ 110,863 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-13]
+  * 🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) - WebGL pixelation postprocessing using *Three.js*. \[[Source](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) ⭐ 110,880 | 🐛 602 | 🌐 JavaScript | 📅 2026-02-14]
   * 📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) - Useful GLSL postprocessing shaders for pixel art games.
-* 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. \[[Source](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,405 | 🐛 18 | 🌐 C++ | 📅 2023-06-25]
+* 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. \[[Source](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,403 | 🐛 18 | 🌐 C++ | 📅 2023-06-25]
 * 📚 [Book of Shaders](https://thebookofshaders.com) 🔥 - Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader). \[[Source](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 6,768 | 🐛 69 | 🌐 GLSL | 📅 2025-03-04]
-* 🌎 [SHADERed](https://github.com/dfranx/SHADERed) ⭐ 4,704 | 🐛 119 | 🌐 C++ | 📅 2023-09-22 - Shader IDE, written in C++.
+* 🌎 [SHADERed](https://github.com/dfranx/SHADERed) ⭐ 4,706 | 🐛 119 | 🌐 C++ | 📅 2023-09-22 - Shader IDE, written in C++.
 * 🌎 [Shader Park](https://github.com/shader-park/shader-park-core) ⭐ 812 | 🐛 42 | 🌐 JavaScript | 📅 2024-05-28 - Shader programming in JavaScript.
 * Noise
   * 🎉 [WebGL Noise](https://github.com/stegu/webgl-noise/) ⭐ 574 | 🐛 3 | 🌐 C | 📅 2025-04-27 - Maintained branch of the original *Ashima Arts* 2D, 3D and 4D noise functions.
@@ -1294,7 +1294,7 @@ This includes things typically not found in low-level game engines, app / game f
 ### Signed Distance Fields
 
 * 🎉 [SDF Mesh Generation](https://github.com/fogleman/sdf) ⭐ 1,896 | 🐛 33 | 🌐 Python | 📅 2024-08-10 - Python API to generate 3D meshes with SDFs.
-* 📚 [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) ⭐ 758 | 🐛 2 | 📅 2024-06-12 - Tutorials, papers, software, demos, discussions, etc.
+* 📚 [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) ⭐ 759 | 🐛 2 | 📅 2024-06-12 - Tutorials, papers, software, demos, discussions, etc.
 * 📚 [CSG w/SDFs](https://jasmcole.com/2019/10/03/signed-distance-fields/) - Using circular SDFs to build 3D objects with CSG. \[[Source](https://github.com/jasmcole/Blog/tree/master/CSG) ⭐ 89 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2023-10-29]
 * 📚 [2D SDFs](https://iquilezles.org/articles/distfunctions2d/) - Signed distance functions for basic 2D primitives.
 * 📚 [3D SDFs](https://iquilezles.org/articles/distfunctions/) - Signed distance functions for basic 3D primitives.
@@ -1325,7 +1325,7 @@ This includes things typically not found in low-level game engines, app / game f
 * 🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag & drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
 * 💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
 * 💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
-* 🆓 [Tiled](https://www.mapeditor.org) - General-purpose tile map editor for all tile-based games. \[[Source](https://github.com/mapeditor/tiled) ⭐ 12,340 | 🐛 755 | 🌐 C++ | 📅 2026-02-13]
+* 🆓 [Tiled](https://www.mapeditor.org) - General-purpose tile map editor for all tile-based games. \[[Source](https://github.com/mapeditor/tiled) ⭐ 12,343 | 🐛 757 | 🌐 C++ | 📅 2026-02-14]
 
 ### AI Assistants
 
@@ -1342,10 +1342,10 @@ This includes things typically not found in low-level game engines, app / game f
 ### Audio Tools
 
 * Music
-  * 🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source](https://github.com/audacity/audacity) ⭐ 16,482 | 🐛 1,402 | 🌐 C++ | 📅 2026-02-13]
-  * 🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source](https://github.com/lmms/lmms) ⭐ 9,570 | 🐛 1,379 | 🌐 C++ | 📅 2026-02-09]
-  * 🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source](https://github.com/Ardour/ardour) ⭐ 4,766 | 🐛 39 | 🌐 C++ | 📅 2026-02-14]
-  * 🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source](https://github.com/BleuBleu/FamiStudio) ⭐ 1,835 | 🐛 35 | 🌐 C# | 📅 2025-11-21]
+  * 🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source](https://github.com/audacity/audacity) ⭐ 16,483 | 🐛 1,403 | 🌐 C++ | 📅 2026-02-13]
+  * 🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source](https://github.com/lmms/lmms) ⭐ 9,575 | 🐛 1,379 | 🌐 C++ | 📅 2026-02-09]
+  * 🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source](https://github.com/Ardour/ardour) ⭐ 4,767 | 🐛 40 | 🌐 C++ | 📅 2026-02-14]
+  * 🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source](https://github.com/BleuBleu/FamiStudio) ⭐ 1,837 | 🐛 35 | 🌐 C# | 📅 2025-11-21]
   * 🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source](https://github.com/keithclark/ZzFXM) ⭐ 463 | 🐛 20 | 🌐 JavaScript | 📅 2023-12-25]
   * 🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
   * 🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
@@ -1376,28 +1376,28 @@ This includes things typically not found in low-level game engines, app / game f
   * 💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
 * Modeling
   * 📚 [Shap-e](https://github.com/openai/shap-e) ⭐ 12,204 | 🐛 108 | 🌐 Python | 📅 2024-06-22 - Generate 3D objects conditioned on text or images.
-  * 📚 [NeRF](https://www.matthewtancik.com/nerf) - View synthesis of scenes as neural radiance fields. \[[Source](https://github.com/bmild/nerf) ⭐ 10,807 | 🐛 121 | 🌐 Jupyter Notebook | 📅 2025-04-12]
+  * 📚 [NeRF](https://www.matthewtancik.com/nerf) - View synthesis of scenes as neural radiance fields. \[[Source](https://github.com/bmild/nerf) ⭐ 10,808 | 🐛 121 | 🌐 Jupyter Notebook | 📅 2025-04-12]
   * 📚 [GET3D](https://nv-tlabs.github.io/GET3D/) - Generative model of 3D shapes from images by *NVIDIA*. \[[Source](https://github.com/nv-tlabs/GET3D) ⭐ 4,429 | 🐛 35 | 🌐 Python | 📅 2024-09-27]
   * 📚 [Dream Fusion](https://dreamfusion3d.github.io/) - Text-to-3D using 2D diffusion.
   * 📚 [Magic3D](https://research.nvidia.com/labs/dir/magic3d/) - High-resolution text-to-3D content creation.
 * Sound
-  * 🆓 [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) ⭐ 11,664 | 🐛 314 | 🌐 C++ | 📅 2026-02-04 - Kind of musical instrument where you code music.
+  * 🆓 [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) ⭐ 11,668 | 🐛 314 | 🌐 C++ | 📅 2026-02-04 - Kind of musical instrument where you code music.
   * 🆓 [Dittytoy](https://dittytoy.net/) - Create generative music using a simple JavaScript API.
 
 ### Image Editors
 
-* 🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source](https://github.com/GNOME/gimp) ⭐ 5,962 | 🐛 0 | 🌐 C | 📅 2026-02-13]
+* 🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source](https://github.com/GNOME/gimp) ⭐ 5,961 | 🐛 0 | 🌐 C | 📅 2026-02-15]
 * 🆓 [Photopea](https://www.photopea.com) - Capable online photo editor.
 
 ### Level Editors
 
-* 🆓 [TrenchBroom](https://trenchbroom.github.io) - Level editor for *Quake-Engine* games. \[[Source](https://github.com/TrenchBroom/TrenchBroom) ⭐ 2,467 | 🐛 420 | 🌐 C++ | 📅 2026-02-12]
+* 🆓 [TrenchBroom](https://trenchbroom.github.io) - Level editor for *Quake-Engine* games. \[[Source](https://github.com/TrenchBroom/TrenchBroom) ⭐ 2,469 | 🐛 421 | 🌐 C++ | 📅 2026-02-12]
 * 🆓 [Radiant](https://icculus.org/gtkradiant/) - Cross-platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games. \[[Source](https://github.com/TTimo/GtkRadiant) ⭐ 633 | 🐛 169 | 🌐 C | 📅 2024-08-18]
 
 ### Materials / Textures
 
-* 🆓 [Material Maker](https://www.materialmaker.org) - Procedural [physically-based rendering](https://en.wikipedia.org/wiki/Physically_based_rendering) material maker. \[[Source](https://github.com/RodZill4/material-maker) ⭐ 5,122 | 🐛 316 | 🌐 GDScript | 📅 2026-01-26]
-* 🆓 [Texgen.js](https://texgenjs.org) - JavaScript texture generator tool. \[[Source](https://github.com/mrdoob/texgen.js) ⭐ 1,857 | 🐛 7 | 🌐 JavaScript | 📅 2021-01-23]
+* 🆓 [Material Maker](https://www.materialmaker.org) - Procedural [physically-based rendering](https://en.wikipedia.org/wiki/Physically_based_rendering) material maker. \[[Source](https://github.com/RodZill4/material-maker) ⭐ 5,126 | 🐛 293 | 🌐 GDScript | 📅 2026-02-14]
+* 🆓 [Texgen.js](https://texgenjs.org) - JavaScript texture generator tool. \[[Source](https://github.com/mrdoob/texgen.js) ⭐ 1,858 | 🐛 7 | 🌐 JavaScript | 📅 2021-01-23]
 * 🆓 [Materialize](http://boundingboxsoftware.com/materialize/) - Tool for creating materials from images to be used in games. \[[Source](https://github.com/BoundingBoxSoftware/Materialize) ⭐ 1,692 | 🐛 47 | 🌐 C# | 📅 2024-06-24]
 * 💰 [Filter Forge](https://www.filterforge.com) - Photo effects, realistic textures, and visual editor.
 * 🆓 [JSplacement](https://windmillart.net/?p=jsplacement) - Cross-platform pseudo-random displacement map generator.
@@ -1408,8 +1408,8 @@ This includes things typically not found in low-level game engines, app / game f
 ### Modeling Tools
 
 * 🆓 [Blender](https://www.blender.org) 🔥 - Standard for open source 3D modeling. \[[Source](https://github.com/blender/blender) ⭐ 17,502 | 🐛 0 | 🌐 C++ | 📅 2026-02-14]
-* 🆓 [ArmorPaint](https://armorpaint.org) - Physically-based texture painting, drop in your 3D models and paint. \[[Source](https://github.com/armory3d/armortools) ⭐ 3,791 | 🐛 148 | 🌐 C | 📅 2026-02-13]
-* 🆓 [Meshroom](https://alicevision.org/#meshroom) - 3D reconstruction, built with the [AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,370 | 🐛 47 | 🌐 C++ | 📅 2026-02-13 framework. \[[Source](https://github.com/alicevision/meshroom) ⭐ 12,551 | 🐛 501 | 🌐 QML | 📅 2026-02-13]
+* 🆓 [ArmorPaint](https://armorpaint.org) - Physically-based texture painting, drop in your 3D models and paint. \[[Source](https://github.com/armory3d/armortools) ⭐ 3,791 | 🐛 150 | 🌐 C | 📅 2026-02-14]
+* 🆓 [Meshroom](https://alicevision.org/#meshroom) - 3D reconstruction, built with the [AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,371 | 🐛 47 | 🌐 C++ | 📅 2026-02-13 framework. \[[Source](https://github.com/alicevision/meshroom) ⭐ 12,553 | 🐛 501 | 🌐 QML | 📅 2026-02-13]
 * 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - Classic software for 3D modeling and rendering.
 * 💰 [Asset Forge](https://assetforge.io) - Create 3D models and 2D sprites using building blocks.
 * 💸 [ZBrush](https://www.maxon.net/en/zbrush) - Simple and easy to use 3D sculpting tool.
@@ -1421,8 +1421,8 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Pixel Art
 
-* 💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source](https://github.com/aseprite/aseprite) ⭐ 35,679 | 🐛 1,887 | 🌐 C++ | 📅 2026-02-13]
-* 🆓 [Piskel](https://www.piskelapp.com) - Online editor for animated sprites & pixel art. \[[Source](https://github.com/piskelapp/piskel) ⭐ 12,281 | 🐛 407 | 🌐 JavaScript | 📅 2025-11-07]
+* 💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source](https://github.com/aseprite/aseprite) ⭐ 35,689 | 🐛 1,889 | 🌐 C++ | 📅 2026-02-13]
+* 🆓 [Piskel](https://www.piskelapp.com) - Online editor for animated sprites & pixel art. \[[Source](https://github.com/piskelapp/piskel) ⭐ 12,282 | 🐛 407 | 🌐 JavaScript | 📅 2025-11-07]
 * 💰 [Ditherdragon](https://winterveil.itch.io/ditherdragon) - Resample art, sketches and images into pixel-art.
 * 💰 [Fluid FX](https://codemanu.itch.io/fluid-fx) - Uses fluid simulation to achieve animations like explosions, blood, smoke, etc.
 * 💰 [Juice FX](https://codemanu.itch.io/juicefx) - Add style to your sprites and animations with ease.
@@ -1432,7 +1432,7 @@ This includes things typically not found in low-level game engines, app / game f
 
 ### Vector Editors
 
-* 🆓 [Krita](https://krita.org/en/) - Professional quality, open source painting. \[[Source](https://github.com/KDE/krita) ⭐ 9,345 | 🐛 0 | 🌐 C++ | 📅 2026-02-14]
+* 🆓 [Krita](https://krita.org/en/) - Professional quality, open source painting. \[[Source](https://github.com/KDE/krita) ⭐ 9,348 | 🐛 0 | 🌐 C++ | 📅 2026-02-15]
 * 🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source](https://github.com/inkscape/inkscape) ⭐ 3,176 | 🐛 1 | 📅 2022-03-03]
 * 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
